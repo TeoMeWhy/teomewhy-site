@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /courses/
+permalink: /courses
 ---
 
 # Meus cursos e projetos

@@ -1,6 +1,8 @@
 ---
 layout: home
 author_profile: true
+permalink: /
+
 ---
 
 # Olá, boas vindas!
