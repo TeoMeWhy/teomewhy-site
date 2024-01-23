@@ -1,11 +1,10 @@
 ---
 layout: home
+title: Olá, boas vindas!
 author_profile: true
 permalink: /
 
 ---
-
-# Olá, boas vindas!
 
 {: .text-justify}
 Aqui você vai encontrar tudo sobre o meu mundo, Téo Me Why!

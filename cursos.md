@@ -1,10 +1,9 @@
 ---
 layout: single
+title: Meus cursos e projetos
 author_profile: true
 permalink: /courses
 ---
-
-# Meus cursos e projetos
 
 {: .text-justify}
 Acreditamos no trabalho de formiguinha, dia a dia alcançando mais e mais vidas por meio do ensino. Aqui você vai encontrar material sobre Data Science, Estatística, Programação e vários temas ao redor da área de dados e tecnologia.
