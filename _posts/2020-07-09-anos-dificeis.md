@@ -2,7 +2,7 @@
 layout: single
 title:  "Anos difíceis"
 date:   2020-07-09 16:10:00 -0300
-categories: livro do guru
+categories: guru
 ---
 O primeiro ano da graduação pode ser um choque para muitas pessoas. No meu caso, tive que redescobrir como estudar, entendi rapidamente que não sabia como fazê-lo. Pior que isso, mal sabia o que era matemática. Isso mesmo, matemática! Como estaria cursando Estatística e nem mesmo entendia as propriedades básicas de potência e logaritmo?
 

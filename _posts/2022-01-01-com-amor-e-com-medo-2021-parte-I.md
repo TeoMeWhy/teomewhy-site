@@ -2,7 +2,7 @@
 layout: single
 title:  "Com amor e com medo"
 date:   2022-01-01 10:43:00 -0300
-categories: livro do guru
+categories: guru
 ---
 
 Este texto deveria ser escrito há muito tempo. Por bem ou pelo mal, só depois de quase um ano consegui organizar as ideias para torná-lo vivo. Devo dizer que os acontecimentos deste ano contribuíram com a história, tornando-a mais longa, bem como trazendo alegrias e tristezas, afinal, é a vida.

@@ -2,7 +2,7 @@
 layout: single
 title:  "Luz, câmera, código!"
 date:   2020-07-09 16:10:00 -0300
-categories: livro do guru
+categories: guru
 ---
 
 Está difícil começar este texto, as ideias não estão bem claras, mas não quero deixar a energia que estou sentindo se dissipar antes de materializa-la. Bom, então vamos ao início.

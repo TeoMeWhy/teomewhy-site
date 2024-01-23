@@ -2,7 +2,7 @@
 layout: single
 title:  "SAS Institute Inc. e minhas primeiras impressões"
 date:   2017-07-25 00:46:00 -0300
-categories: livro do guru
+categories: guru
 ---
 No meu post anterior apresentei uma relação das técnicas e ferramentas computacionais que utilizei no meu primeiro emprego como Data Scientist. Se reparou bem, grande parte envolve desenvolvimento colaborativo e Open Source, o que até hoje me atrai muito! Pessoas próximas a mim sabem o quanto sou apaixonado por este mundo e o tamanho do meu desejo pelo crescimento e democratização dessas comunidades.
 

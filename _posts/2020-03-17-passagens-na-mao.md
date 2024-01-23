@@ -2,7 +2,7 @@
 layout: single
 title:  "Passagens na mão"
 date:   2020-03-17 20:00:00 -0300
-categories: livro do guru
+categories: guru
 ---
 Não sei bem como começar este texto. Ultimamente estou com grande dificuldade em organizar as palavras que saem de minha mente. Mesmo assim, corri para cá escrever sobre algo que acabara de ocorrer, algo diferente, algo que há tempos não acontecia.
 
