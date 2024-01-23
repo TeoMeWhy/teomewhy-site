@@ -2,7 +2,7 @@
 layout: single
 title:  "Cresça. Só então, rebele-se"
 date:   2024-01-12 09:00:00 -0300
-categories: livro do guru
+categories: "livro do guru"
 ---
 "Você tem algum conselho para me dar? Como você faz para conciliar seu posicionamento político e ainda estar na área de dados?"
 
