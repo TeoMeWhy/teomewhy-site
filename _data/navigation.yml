@@ -1,4 +1,6 @@
 main:
+  - title: "Início"
+    url: /
   - title: "Cursos"
     url: /courses
   - title: "Posts"
