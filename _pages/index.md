@@ -3,7 +3,6 @@ layout: home
 title: Olá, boas vindas!
 author_profile: true
 permalink: /
-
 ---
 
 {: .text-justify}
