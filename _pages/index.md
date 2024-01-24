@@ -15,13 +15,13 @@ Resolvi centralizar todo conhecimento e material que gero por aqui. Assim ficar�
 Esta é uma iniciativa de educação voltada a área de dados e tecnologia. Você poderá conhecer mais sobre o meu trabalho nos links abaixo.
 
 <div style="text-align: center;">
-  <a href="/courses/" style="text-decoration: none; color: inherit;">
+  <a href="/courses" style="text-decoration: none; color: inherit;">
   <button style="display: inline-block; margin: 0 10px; width: 100px; height: 55px; background-color: #6f777d; color: white; padding: 10px 20px; border: none; border-radius: 5px; text-align: center; text-decoration: none; font-size: 16px; cursor: pointer;background-size: cover;">
   Cursos
   </button>
   </a>
   
-  <a href="/posts/" style="text-decoration: none; color: inherit;">
+  <a href="/posts" style="text-decoration: none; color: inherit;">
   <button style="display: inline-block; margin: 0 10px; width: 100px; height: 55px; background-color: #6f777d; color: white; padding: 10px 20px; border: none; border-radius: 5px; text-align: center; text-decoration: none; font-size: 16px; cursor: pointer;background-size: cover;">
   Posts
   </button>

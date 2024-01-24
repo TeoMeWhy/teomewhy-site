@@ -3,10 +3,9 @@ layout: category
 title: O Livro do Guru
 author_profile: true
 permalink: /livro_do_guru
-category: guru
 ---
 - [Reinicio](/guru/reinicio/)
-- [Antes de ler o livro que o guru lhe deu voce tem que escrever o seu](/guru/antes-de-ler-o-livro-que-o-guru-lhe-deu-voce-tem-que-escrever-o-seu/)
+- [Antes de ler o livro que o guru lhe deu, você tem que escrever o seu](/guru/antes-de-ler-o-livro-que-o-guru-lhe-deu-voce-tem-que-escrever-o-seu/)
 - [Primeiro emprego como Data Scientist](/guru/primeiro-emprego-como-data-scientist/)
 - [Sas Institute Inc e minhas primeiras impressoes](/guru/sas-institute-inc-e-minhas-primeiras-impressoes/)
 - [Não há nada melhor do que um bom livro](/guru/nao-ha-nada-melhor-do-que-um-bom-livro/)
