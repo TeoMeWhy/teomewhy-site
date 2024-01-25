@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Téo Me Why
-email: concato@teomewhy.org
+email: teo@teomewhy.org
 description: >- # this means to ignore newlines until "baseurl:"
   Uma iniciativa de educação gratuita para a área de dados e tecnologia
 twitter_username: teocalvo

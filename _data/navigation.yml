@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Cursos"
     url: /courses
+  - title: "Agenda"
+    url: /schedule
   - title: "Posts"
     url: /posts
   - title: "Sobre"
