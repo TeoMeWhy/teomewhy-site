@@ -4,6 +4,39 @@ layout: archive
 
 {{ content }}
 
+<style>
+  .container {
+    position: relative;
+    max-width: 100%;
+  }
+
+  .image {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .button-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .button {
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #ffffff;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+</style>
+
 <!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}
