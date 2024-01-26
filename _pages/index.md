@@ -14,9 +14,15 @@ Centralizar todo conhecimento e material que gero por aqui, tornando-o mais fác
 <div class="container">
   <img class="image" src="/assets/images/dices.jpg" alt="Dados">
   <div class="button-container">
-    <a class="link" href="/schedule" >Agenda</a>
-    <a class="link" href="/courses" >Cursos</a>
-    <a class="link" href="/posts" >Posts</a>
+    <p>
+      <a class="link" href="/schedule" >Agenda</a>
+    </p>
+    <p>
+      <a class="link" href="/courses" >Cursos</a>
+    </p>
+    <p>
+      <a class="link" href="/posts" >Posts</a>
+    </p>
   </div>
 </div>
 
