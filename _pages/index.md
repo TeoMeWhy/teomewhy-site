@@ -9,11 +9,11 @@ permalink: /
 Aqui você vai encontrar tudo sobre o meu mundo, Téo Me Why!
 
 {: .text-justify}
-Centralizar todo conhecimento e material que gero por aqui, tornando-o mais fácil para todas pessoas.
+Centralizei todo meu material por aqui, tornando mais fácil acesso para todas as pessoas.
 
 <div class="container">
   <img class="image" src="/assets/images/dices.jpg" alt="Dados">
-  <div class="button-container">
+  <div class="links">
     <p>
       <a class="link" href="/schedule" >Agenda</a>
     </p>
