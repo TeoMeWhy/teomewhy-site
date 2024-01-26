@@ -14,6 +14,8 @@ Resolvi centralizar todo conhecimento e material que gero por aqui. Assim ficar�
 {: .text-justify}
 Esta é uma iniciativa de educação voltada a área de dados e tecnologia. Você poderá conhecer mais sobre o meu trabalho nos links abaixo.
 
+<div>
+<img class="image" src="/assets/images/dices.jpg" alt="Dados">
 <div style="text-align: center;">
   <a href="/courses" style="text-decoration: none; color: inherit;">
   <button style="display: inline-block; margin: 0 10px; width: 100px; height: 55px; background-color: #6f777d; color: white; padding: 10px 20px; border: none; border-radius: 5px; text-align: center; text-decoration: none; font-size: 16px; cursor: pointer;background-size: cover;">
@@ -27,6 +29,8 @@ Esta é uma iniciativa de educação voltada a área de dados e tecnologia. Voc�
   </button>
   </a>
 </div>
+</div>
+
 
 {: .text-justify}
 Caso tenha curtido nossa iniciativa, nos apoie:
