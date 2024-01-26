@@ -5,6 +5,10 @@ permalink: /schedule
 author_profile: true
 ---
 
+Estamos ao vivo de segunda a sexta às 9AM na [Twitch](https://twitch.tv/teomewhy).
+
+De tempos em tempos realizamos cursos para área de dados, tenha atenção na nossa agenda de 2024!
+
 ## Acompanhe a nossa agenda de cursos ao vivo. É grátis!
 
 | Curso | Dias | Horário | Adicione na agenda |
