@@ -14,22 +14,15 @@ Centralizar todo conhecimento e material que gero por aqui, tornando-o mais fác
 <div class="container">
   <img class="image" src="/assets/images/dices.jpg" alt="Dados">
   <div class="button-container">
-    <a href="/schedule">
-      <button class="button">Agenda</button>
-    </a>
-    <a href="/courses">
-      <button class="button">Cursos</button>
-    </a>
-    <a href="/posts">
-      <button class="button">Posts</button>
-    </a>
+    <a href="/schedule" style="font-size=16px">Agenda</a>
+    <a href="/courses" style="font-size=16px">Cursos</a>
+    <a href="/posts" style="font-size=16px">Posts</a>
   </div>
 </div>
 
 
 {: .text-justify}
-Caso tenha curtido nossa iniciativa, nos apoie:
-
+Me ajude a seguir em frente:
 - Chave Pix: pix@teomewhy.org
 - LivePix: [livepix.gg/teomewhy](https://livepix.gg/teomewhy)
 - GitHub Sponsors: [github.com/sponsors/TeoMeWhy](https://github.com/sponsors/TeoMeWhy)
