@@ -25,7 +25,7 @@ Esta é a vantagem de conhecer um pouco sobre as distribuições de probabilidad
 E ela pode ter alguns formatos diferentes dependendo do valor de lambda:
 
 <p align="center">
-  <img src="/assets/images/exp_densidade.png" alt="Curva Função densidade de probabilidade Exponencial" width="500px">
+  <img src="/assets/images/exp_densidade.png" alt="Curva Função densidade de probabilidade Exponencial" width="600px">
 </p>
 
 Agora uma parada importante! O x na função é seu evento (variável) de interesse e deve ser positivo. Quais exemplos temos que só podem ser positivos? Quantidade de seguidores? Salário? Tempo até ser curado de um câncer? Quantidade de amigos? Patrimônio? Tempo até conseguir primeiro emprego? Há uma grande chance da distribuição exponencial descrever bem estes dados. O que precisamos fazer é encontrar o melhor lambda para o conjunto de dados.
@@ -45,7 +45,7 @@ plt.title("Histograma para quantidade de seguidores")
 ```
 
 <p align="center">
-  <img src="/assets/images/exp_hist_twitter.png" alt="Histograma dados Twitter" width="500px">
+  <img src="/assets/images/exp_hist_twitter.png" alt="Histograma dados Twitter" width="600px">
 </p>
 
 Repare como a distribuição dos dados é concentrada ao lado esquerdo, onde temos muitos influenciadores com baixos valores de seguidores. E são poucos os influenciadores com muitos seguidores. Agora, podemos ajusta o modelo Exponencial nestes dados, encontrando o melhor lambda.
@@ -68,7 +68,7 @@ plt.legend(["Modelo Exponencial Ajustado"])
 ```
 
 <p align="center">
-  <img src="/assets/images/exp_ajustado.png" alt="Curva Exponencial ajustada aos dados do Twitter" width="500px">
+  <img src="/assets/images/exp_ajustado.png" alt="Curva Exponencial ajustada aos dados do Twitter" width="600px">
 </p>
 
 
@@ -92,7 +92,7 @@ plt.legend(["Modelo Exponencial Ajustado", "Modelo Normal Ajustado"])
 ```
 
 <p align="center">
-  <img src="/assets/images/exp_norm_ajustado.png" alt="Curva Exponencial e Normal ajustadas aos dados do Twitter" width="500px">
+  <img src="/assets/images/exp_norm_ajustado.png" alt="Curva Exponencial e Normal ajustadas aos dados do Twitter" width="600px">
 </p>
 
 E ai, qual delas você escolheria para representar seus dados? Pois é, a distribuição Normal não faz sentido algum para estes dados. Assim, podemos descartá-la.
@@ -123,6 +123,10 @@ plt.title("Histograma para quantidade de seguidores")
 plt.legend(["Modelo Exponencial Ajustado", f"Média dos dados: {avg:.0f}"])
 ```
 
+<p align="center">
+  <img src="/assets/images/exp_ajustado_media.png" alt="Curva Exponencial e média ajustadas aos dados do Twitter" width="600px">
+</p>
+
 Você realmente acha que este valor resume de forma correta toda essa distribuição dos dados? Será que usando esta medida estamos inferindo a realidade do mercado? Para estes dados temos um comportamento assimétrico, onde a calda da direita acaba puxando a média para cima, ou seja, distorce a média para valores mais altos.
 
 No tema de salário, isso acaba passando a mensagem de que os valores são mais altos do que realmente são. Mas então qual outra medida podemos usar? Mediana, talvez?
@@ -142,6 +146,10 @@ plt.legend(["Modelo Exponencial Ajustado",
             f"Mediana dos dados: {median:.0f}"])
 ```
 
+<p align="center">
+  <img src="/assets/images/exp_ajustado_media_mediana.png" alt="Curva Exponencial, média e mediana ajustadas aos dados do Twitter" width="600px">
+</p>
+
 Ou seja, 50% dos influencers tem entre 36 e 51 Milhões de seguidores. Note como a outra metade tem uma dispersão muito maior, chegando até 130 milhões. Imagina como isso se comporta no mercado?
 
 Não posso encerrar este post sem deixar duas provocações.
@@ -153,8 +161,3 @@ Por último, se você já está em um percentil alto (ou no que você acredita s
 Para vocês terem uma ideia melhor sobre essa desigualdade, encerro este post com um link de calculadora do salário do brasileiro, onde você consegue identificar em qual percentil se encaixa: 
 
 https://www.bbc.com/portuguese/brasil-57909632
-
-
-<script type="text/javascript">
-    MathJax.typeset();
-</script>
