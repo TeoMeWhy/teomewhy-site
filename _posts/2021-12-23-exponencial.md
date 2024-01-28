@@ -4,7 +4,7 @@ title:  "Porque usar Distribuição Exponencial"
 date:   2021-12-23 11:20:00 -0300
 categories: ml
 ---
-Este é um post que também virou vídeo, você pode conferir aqui.
+Este é um post que também virou vídeo, você pode conferir [aqui](https://www.youtube.com/watch?v=bcITjW_qNrE).
 
 A razão de escrever este post foi o presente de natal antecipado que o Fábio Akita nos deu com seu vídeo ["Média Salarial NÃO Existe | Entendendo Power Laws"](https://www.youtube.com/watch?v=WwdNJM_3Cdo&ab_channel=FabioAkita). Mesmo não conhecendo o termo "Power Law", como Akita linkou isso á distribuições de probabilidade, ficou fácil pegar o conceito. Até cheguei a comentar o vídeo tentando contribuir com meus 2 centavos, o que era para trazer maior clareza, aparentemente confundiu mais um pessoal.
 
