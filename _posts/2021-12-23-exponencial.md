@@ -119,8 +119,8 @@ plt.ylabel("Quantidade de Influenciadores (densidade)")
 plt.grid(True)
 plt.title("Histograma para quantidade de seguidores")
 plt.legend(["Modelo Exponencial Ajustado",
-                      f"Média dos dados: {avg:.0f}",
-                      f"Mediana dos dados: {median:.0f}"])
+            f"Média dos dados: {avg:.0f}",
+            f"Mediana dos dados: {median:.0f}"])
 ```
 
 Ou seja, 50% dos influencers tem entre 36 e 51 Milhões de seguidores. Note como a outra metade tem uma dispersão muito maior, chegando até 130 milhões. Imagina como isso se comporta no mercado?
@@ -134,3 +134,8 @@ Por último, se você já está em um percentil alto (ou no que você acredita s
 Para vocês terem uma ideia melhor sobre essa desigualdade, encerro este post com um link de calculadora do salário do brasileiro, onde você consegue identificar em qual percentil se encaixa: 
 
 https://www.bbc.com/portuguese/brasil-57909632
+
+
+<script type="text/javascript">
+    MathJax.typeset();
+</script>
