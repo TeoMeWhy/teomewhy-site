@@ -19,7 +19,7 @@ Depois de ter feito essa paralela, podemos voltar ao vídeo do Akita. Logo que e
 Esta é a vantagem de conhecer um pouco sobre as distribuições de probabilidade, sabendo suas propriedades você pode eliminar alguns modelos e assumir outros. Por exemplo, a cara da distribuição exponencial é essa:
 
 <p align="center">
-  <img src="/assets/images/exp_fx_inv.png" alt="Função densidade de probabilidade Exponencial" width="200px">
+  <img src="/assets/images/exp_fx_inv.png" alt="Função densidade de probabilidade Exponencial" width="150px">
 </p>
 
 E ela pode ter alguns formatos diferentes dependendo do valor de lambda:
@@ -154,7 +154,10 @@ Ou seja, 50% dos influencers tem entre 36 e 51 Milhões de seguidores. Note como
 
 Não posso encerrar este post sem deixar duas provocações.
 
-Considerando tudo o que vimos, se você pudesse ordenar todos os profissionais de sua área com base em nível de conhecimento ou competência técnica, em qual posição você estaria? Em qual percentil? Acima dos 50%? Acima dos 75%? Já parou para pensar o que este 50% significa? E que muitas vezes está mais perto do que você imagina? Tenho um pouco mais de conhecimento do que a média (ou melhor, mediana), você pode dar um grande salto em percentis na distribuição de salário. É como olhar para este gráfico e cada novo seguidor que um influenciador ganha, o joga mais e mais para cima nos percentis.
+Considerando tudo o que vimos, se você pudesse ordenar todos os profissionais de sua área com base em nível de co<script type="text/javascript">
+    MathJax.typeset();
+</script>
+nde salto em percentis na distribuição de salário. É como olhar para este gráfico e cada novo seguidor que um influenciador ganha, o joga mais e mais para cima nos percentis.
 
 Por último, se você já está em um percentil alto (ou no que você acredita se suficiente para sua carreira), ajude outros a chegarem lá também. É isso que ajudará a termos uma sociedade menos desigual e com menos pobreza. Apesar do comportamento do mercado seguir uma distribuição onde a maioria é desfavorecida, podemos ao menos diminuir a escala (amplitude) dessa desigualdade, ainda que a forma da curva se mantenha, podemos torná-la mais estreita. Assim diminuímos a concentração de riqueza, i.e. distância entre mais rico e mais pobre diminui.
 
