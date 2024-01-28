@@ -13,6 +13,18 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
+<style>
+  body {
+  text-align: justify;
+}
+
+/* Opcional: Adicionar uma exceção para cabeçalhos ou outros elementos específicos */
+h1, h2, h3, h4, h5, h6 {
+  text-align: left; /* Alinhar cabeçalhos à esquerda, por exemplo */
+}
+
+</style>
+
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
