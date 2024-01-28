@@ -18,12 +18,15 @@ Depois de ter feito essa paralela, podemos voltar ao vídeo do Akita. Logo que e
 
 Esta é a vantagem de conhecer um pouco sobre as distribuições de probabilidade, sabendo suas propriedades você pode eliminar alguns modelos e assumir outros. Por exemplo, a cara da distribuição exponencial é essa:
 
+<p align="center">
+  <img src="/assets/images/exp_fx_inv.png" alt="Função densidade de probabilidade Exponencial" width="200px">
+</p>
+
 E ela pode ter alguns formatos diferentes dependendo do valor de lambda:
 
 <p align="center">
-  <img src="/assets/images/exp_fx_inv.png" alt="Função densidade de probabilidade Exponencial">
+  <img src="/assets/images/exp_densidade.png" alt="Curva Função densidade de probabilidade Exponencial" width="400px">
 </p>
-
 
 Agora uma parada importante! O x na função é seu evento (variável) de interesse e deve ser positivo. Quais exemplos temos que só podem ser positivos? Quantidade de seguidores? Salário? Tempo até ser curado de um câncer? Quantidade de amigos? Patrimônio? Tempo até conseguir primeiro emprego? Há uma grande chance da distribuição exponencial descrever bem estes dados. O que precisamos fazer é encontrar o melhor lambda para o conjunto de dados.
 
