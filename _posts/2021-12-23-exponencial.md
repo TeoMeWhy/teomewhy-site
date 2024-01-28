@@ -20,9 +20,12 @@ Esta é a vantagem de conhecer um pouco sobre as distribuições de probabilidad
 
 E ela pode ter alguns formatos diferentes dependendo do valor de lambda:
 
-\(x = \frac{{-b \pm \sqrt{{b^2 - 4ac}}}}{{2a}}\)
+<p align="center">
+  <img src="assets/images/exp_fx_inv.png" alt="Função densidade de probabilidade Exponencial">
+</p>
 
-Agora uma parada importante! O x na função é seu evento (variável) de interesse e DEVE ser positivo. Quais exemplos temos que só podem ser positivos? Quantidade de seguidores? Salário? Tempo até ser curado de um câncer? Quantidade de amigos? Patrimônio? Tempo até conseguir primeiro emprego? Há uma grande chance da distribuição exponencial descrever bem estes dados. O que precisamos fazer é encontrar o melhor lambda para o conjunto de dados.
+
+Agora uma parada importante! O x na função é seu evento (variável) de interesse e deve ser positivo. Quais exemplos temos que só podem ser positivos? Quantidade de seguidores? Salário? Tempo até ser curado de um câncer? Quantidade de amigos? Patrimônio? Tempo até conseguir primeiro emprego? Há uma grande chance da distribuição exponencial descrever bem estes dados. O que precisamos fazer é encontrar o melhor lambda para o conjunto de dados.
 
 Aqui então temos a distribuição dos dados do Twitter...
 
