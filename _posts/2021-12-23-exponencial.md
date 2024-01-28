@@ -21,7 +21,7 @@ Esta é a vantagem de conhecer um pouco sobre as distribuições de probabilidad
 E ela pode ter alguns formatos diferentes dependendo do valor de lambda:
 
 <p align="center">
-  <img src="assets/images/exp_fx_inv.png" alt="Função densidade de probabilidade Exponencial">
+  <img src="/assets/images/exp_fx_inv.png" alt="Função densidade de probabilidade Exponencial">
 </p>
 
 
