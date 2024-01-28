@@ -14,17 +14,32 @@
 </script>
 
 <style>
-  body {
-  text-align: justify;
-  font-size: 10;
-}
+    body {
+    text-align: justify;
+    font-size: 10;
+  }
 
-/* Opcional: Adicionar uma exceção para cabeçalhos ou outros elementos específicos */
-h1, h2, h3, h4, h5, h6 {
-  text-align: left; /* Alinhar cabeçalhos à esquerda, por exemplo */
-}
-
+  /* Opcional: Adicionar uma exceção para cabeçalhos ou outros elementos específicos */
+  h1, h2, h3, h4, h5, h6 {
+    text-align: left; /* Alinhar cabeçalhos à esquerda, por exemplo */
+  }
 </style>
+
+
+<script async src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script type="text/javascript">
+  MathJax = {
+      tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']]
+      },
+      svg: {
+          fontCache: 'global'
+      }
+  };
+</script>
+
+
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
