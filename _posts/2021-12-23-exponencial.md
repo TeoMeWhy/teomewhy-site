@@ -25,7 +25,7 @@ Esta é a vantagem de conhecer um pouco sobre as distribuições de probabilidad
 E ela pode ter alguns formatos diferentes dependendo do valor de lambda:
 
 <p align="center">
-  <img src="/assets/images/exp_densidade.png" alt="Curva Função densidade de probabilidade Exponencial" width="400px">
+  <img src="/assets/images/exp_densidade.png" alt="Curva Função densidade de probabilidade Exponencial" width="500px">
 </p>
 
 Agora uma parada importante! O x na função é seu evento (variável) de interesse e deve ser positivo. Quais exemplos temos que só podem ser positivos? Quantidade de seguidores? Salário? Tempo até ser curado de um câncer? Quantidade de amigos? Patrimônio? Tempo até conseguir primeiro emprego? Há uma grande chance da distribuição exponencial descrever bem estes dados. O que precisamos fazer é encontrar o melhor lambda para o conjunto de dados.
@@ -43,6 +43,10 @@ plt.ylabel("Quantidade de Influenciadores")
 plt.grid(True)
 plt.title("Histograma para quantidade de seguidores")
 ```
+
+<p align="center">
+  <img src="/assets/images/exp_hist_twitter.png" alt="Histograma dados Twitter" width="500px">
+</p>
 
 Repare como a distribuição dos dados é concentrada ao lado esquerdo, onde temos muitos influenciadores com baixos valores de seguidores. E são poucos os influenciadores com muitos seguidores. Agora, podemos ajusta o modelo Exponencial nestes dados, encontrando o melhor lambda.
 
@@ -63,6 +67,11 @@ plt.title("Histograma para quantidade de seguidores")
 plt.legend(["Modelo Exponencial Ajustado"])
 ```
 
+<p align="center">
+  <img src="/assets/images/exp_ajustado.png" alt="Curva Exponencial ajustada aos dados do Twitter" width="500px">
+</p>
+
+
 Agora sim temos a prova de que estes dados tem muito a cara de uma distribuição Exponencial. Mas vamos tentar ajustar uma Gaussina para ver o que acontece?
 
 ```python
@@ -81,6 +90,10 @@ plt.grid(True)
 plt.title("Histograma para quantidade de seguidores")
 plt.legend(["Modelo Exponencial Ajustado", "Modelo Normal Ajustado"])
 ```
+
+<p align="center">
+  <img src="/assets/images/exp_norm_ajustado.png" alt="Curva Exponencial e Normal ajustadas aos dados do Twitter" width="500px">
+</p>
 
 E ai, qual delas você escolheria para representar seus dados? Pois é, a distribuição Normal não faz sentido algum para estes dados. Assim, podemos descartá-la.
 
