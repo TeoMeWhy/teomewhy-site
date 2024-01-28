@@ -4,10 +4,9 @@ title:  "Porque usar Distribuição Exponencial"
 date:   2021-12-23 11:20:00 -0300
 categories: ml
 ---
-
 Este é um post que também virou vídeo, você pode conferir aqui.
 
-A razão de escrever este post foi o presente de natal antecipado que o Fábio Akita nos deu com seu vídeo "Média Salarial NÃO Existe | Entendendo Power Laws". Mesmo não conhecendo o termo "Power Law", como Akita linkou isso á distribuições de probabilidade, ficou fácil pegar o conceito. Até cheguei a comentar o vídeo tentando contribuir com meus 2 centavos, o que era para trazer maior clareza, aparentemente confundiu mais um pessoal.
+A razão de escrever este post foi o presente de natal antecipado que o Fábio Akita nos deu com seu vídeo ["Média Salarial NÃO Existe | Entendendo Power Laws"](https://www.youtube.com/watch?v=WwdNJM_3Cdo&ab_channel=FabioAkita). Mesmo não conhecendo o termo "Power Law", como Akita linkou isso á distribuições de probabilidade, ficou fácil pegar o conceito. Até cheguei a comentar o vídeo tentando contribuir com meus 2 centavos, o que era para trazer maior clareza, aparentemente confundiu mais um pessoal.
 
 Bom, Distribuições de probabilidade é um tema que vivi durante todos os meus longos 7 anos na faculdade. Sim, 7 anos. Já falei em outros post sobre isso, e da onde tirava minha motivação em terminar a faculdade.
 
@@ -18,6 +17,10 @@ O que devemos entender de importante aqui é: cada evento que observamos no mund
 Depois de ter feito essa paralela, podemos voltar ao vídeo do Akita. Logo que ele mostrou o case do Twitter, mesmo antes de apresentar os dados eu já estava imaginando que o comportamento seria de uma Distribuição Exponencial, justamente pelo tipo de comportamento do evento que seria modelado: contagem.
 
 Esta é a vantagem de conhecer um pouco sobre as distribuições de probabilidade, sabendo suas propriedades você pode eliminar alguns modelos e assumir outros. Por exemplo, a cara da distribuição exponencial é essa:
+
+\[
+x = \frac{{-b \pm \sqrt{{b^2 - 4ac}}}}{{2a}}
+\]
 
 E ela pode ter alguns formatos diferentes dependendo do valor de lambda:
 
