@@ -36,4 +36,4 @@ Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9:0
 <br/><br/>
 
 {: .text-justify}
-Fique por dentro de toda nossa agenda aqui: [twitch.tv/teomewhy/schedule](https://www.twitch.tv/teomewhy/schedule). Você pode vincular seu [Amazon Prime aqui](https://twitch.amazon.com/tp) para ganhar sua assinatura de forma gratuita.
+Fique por dentro de toda nossa agenda [aqui](/schedule). Você pode vincular seu [Amazon Prime aqui](https://twitch.amazon.com/tp) para ganhar sua assinatura de forma gratuita.
