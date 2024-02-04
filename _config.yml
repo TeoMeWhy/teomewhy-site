@@ -77,6 +77,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/teocalvo/"
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch-square"
+      url: "https://twitch.tv/teomewhy"
 
 footer:
   links:
@@ -92,6 +95,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/teocalvo/"
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch-square"
+      url: "https://twitch.tv/teomewhy"
 
 defaults:
   # _posts

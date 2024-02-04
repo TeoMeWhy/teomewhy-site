@@ -72,6 +72,14 @@
         </li>
       {% endif %}
 
+      {% if author.twitter %}
+        <li>
+          <a href="https://twitch.tv/{{ author.twitch }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+            <i class="fab fa-fw fa-twitch" aria-hidden="true"></i><span class="label">Twitter</span>
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.facebook %}
         <li>
           <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
