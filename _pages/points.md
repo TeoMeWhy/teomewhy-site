@@ -7,14 +7,7 @@ author_profile: true
 
 Temos uma loja para você resgatar prêmios! [Confira aqui!](https://streamelements.com/teomewhy/store)
 
-### Prêmios
-
-- Mentoria com Téo (1 sessão de 45min);
-- Cupom de 100% de desconto no curso Descomplicando SQL da LinuxTips (feat Téo);
-
-estamos negocionando novas parcerias para trazer mais prêmios para nossa comunidade.
-
-Vamos explicar aqui como você consegue os pontos necessários para resgatar essas recomenpensas.
+Mas como juntar pontos para obter esses prêmios? Vamos explicar abaixo os três tipos de pontos que existem no nosso sistema de pontos.
 
 ## Datapoints
 
