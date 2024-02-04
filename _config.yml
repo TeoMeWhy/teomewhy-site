@@ -96,7 +96,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/teocalvo/"
     - label: "Twitch"
-      icon: "fab fa-fw fa-twitch-square"
+      icon: "fab fa-fw fa-twitch"
       url: "https://twitch.tv/teomewhy"
 
 defaults:
