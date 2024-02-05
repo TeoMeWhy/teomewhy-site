@@ -13,6 +13,7 @@ Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9:0
 
 |Coleção | Descrição | Nível | Formato | Status | Acesso |
 |---|---|---|---|---|---|
+|[Git e GitHub](https://www.twitch.tv/collections/0Y_K7vMBsRf4mw)| Introdução à versionamento de código| Curso | Em andamento | Aberto |
 |[Dados TSE](https://www.twitch.tv/collections/wO90seh_qxeyTA)| Coleta de dados públicos das eleições brasileiras|Intermediário| Projeto | Em andamento | Assinantes Twitch |
 |[Estatística para Você](https://www.twitch.tv/collections/GnvvyiEhhBdCuA)| Curso de Estatística básica|Iniciante| Curso | Finalizado | Aberto |
 |[The International](https://www.twitch.tv/collections/3DNdc7JXdxccWg)| Consumo de dados de Dota2 para predições de partida|Intermediário| Projeto | Finalizado | Assinantes Twitch |
