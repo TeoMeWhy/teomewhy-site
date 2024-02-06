@@ -13,7 +13,6 @@ De tempos em tempos realizamos cursos para área de dados, tenha atenção na no
 
 | Curso | Dias | Horário | Adicione na agenda |
 | ----- | :--: | :-----: | :----: |
-| Git/GitHub | 05.02 a 06.02 | 9AM | [:link:](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ajMzbWtpY3BuMXJvams2ZGVjbDAwZDRlbXZfMjAyNDAyMDVUMTIwMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL){:target="_blank"} |
 | Introdução à Programação com Python | 26.02 a 01.03 | 19:30 | [:link:](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NmEwdm5wcGdpcGNxMDJqM2UxbHMzdmc3ZnNfMjAyNDAyMjZUMjIzMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL){:target="_blank"} |
 | Primeiros passos com Pandas | 11.03 a 15.03 | 19:30 | [:link:](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NW4wNjV0bXNocjIyMGNhNzI1YjNwbjVpb2VfMjAyNDAzMTFUMjIzMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL){:target="_blank"} |
 | Coleta e organização de dados | 25.03 a 29.03 | 9AM | [:link:](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXYyZDJ0cHBwaHVrY2xxdmp1aGtvOWltbWJfMjAyNDAzMjVUMTIwMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL){:target="_blank"} |
