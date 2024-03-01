@@ -34,8 +34,6 @@ Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9:0
 |Dota Science|Tentativa de predição de desfecho de partidas de Dota2|Avançado|Projeto|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/eiQxhCffdBapKQ)|
 |Trilha SQL|Primeiro curso de SQL do canal, utilizando dados da Olist|Iniciante|Curso|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/IkuI3yO-ShZO-g)|
 
-
-
 <br/><br/>
 
 {: .text-justify}
