@@ -13,8 +13,8 @@ Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9:0
 
 |Playlist|Descrição|Nível|Formato|Acesso|Link|
 |---|---|---|---|---|---|
-|Introdução à Programação com Python| Introdução a linguagem e lógica de programação com Python|Curso|Iniciante|Aberto|[Twitch](https://www.twitch.tv/collections/ifV7zaeStxdLGg) / [YouTube](https://youtube.com/playlist?list=PLvlkVRRKOYFRXdquucikNbwYeFzzzYIGb&si=vo6SPepASfL0UkXR)|
-|Git e GitHub|Introdução à versionamento de código|Curso|Iniciante|Aberto|[Twitch](https://www.twitch.tv/collections/0Y_K7vMBsRf4mw) / [YouTube](https://youtube.com/playlist?list=PLvlkVRRKOYFQ3cfYPjLeQ0KvrQ8bG5H11&si=PsaP0KviQYsDxVOc)|
+|Introdução à Programação com Python| Introdução a linguagem e lógica de programação com Python|Iniciante|Curso|Aberto|[Twitch](https://www.twitch.tv/collections/ifV7zaeStxdLGg) / [YouTube](https://youtube.com/playlist?list=PLvlkVRRKOYFRXdquucikNbwYeFzzzYIGb&si=vo6SPepASfL0UkXR)|
+|Git e GitHub|Introdução à versionamento de código|Iniciante|Curso|Aberto|[Twitch](https://www.twitch.tv/collections/0Y_K7vMBsRf4mw) / [YouTube](https://youtube.com/playlist?list=PLvlkVRRKOYFQ3cfYPjLeQ0KvrQ8bG5H11&si=PsaP0KviQYsDxVOc)|
 |Dados TSE|Coleta de dados públicos das eleições brasileiras|Intermediário|Projeto|Assinantes Twitch|[Twitch](https://www.twitch.tv/collections/wO90seh_qxeyTA)|
 |Estatística para Você|Curso de Estatística básica|Iniciante|Curso|Aberto|[Twitch](https://www.twitch.tv/collections/GnvvyiEhhBdCuA)|
 |The International|Consumo de dados de Dota2 para predições de partida|Intermediário|Projeto|Assinantes Twitch|[Twitch](https://www.twitch.tv/collections/3DNdc7JXdxccWg)|
