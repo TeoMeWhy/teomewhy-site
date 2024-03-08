@@ -65,9 +65,6 @@ author:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/teocalvo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/teocalvo"
@@ -80,12 +77,15 @@ author:
     - label: "Twitch"
       icon: "fab fa-fw fa-twitch"
       url: "https://twitch.tv/teomewhy"
-
-footer:
-  links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/teocalvo"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@teomewhy"
+
+footer:
+  links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/teomewhy"
@@ -98,6 +98,12 @@ footer:
     - label: "Twitch"
       icon: "fab fa-fw fa-twitch"
       url: "https://twitch.tv/teomewhy"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/teocalvo"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@teomewhy"
 
 defaults:
   # _posts
