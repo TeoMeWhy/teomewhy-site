@@ -13,6 +13,7 @@ Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9:0
 
 |Playlist|Descrição|Nível|Formato|Acesso|Link|
 |---|---|---|---|---|---|
+| Desbravando Pandas | Primeiros passos com a Lib Pandas para análise e manipulação de dados|Iniciante|Curso|Aberto|[Twitch](https://www.twitch.tv/collections/TpcyQRUNvBf47g) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSl-XCxNQ1u3uOLvDnYxupG)|
 |Introdução à Programação com Python| Introdução a linguagem e lógica de programação com Python|Iniciante|Curso|Aberto|[Twitch](https://www.twitch.tv/collections/ifV7zaeStxdLGg) / [YouTube](https://youtube.com/playlist?list=PLvlkVRRKOYFRXdquucikNbwYeFzzzYIGb&si=vo6SPepASfL0UkXR)|
 |Git e GitHub|Introdução à versionamento de código|Iniciante|Curso|Aberto|[Twitch](https://www.twitch.tv/collections/0Y_K7vMBsRf4mw) / [YouTube](https://youtube.com/playlist?list=PLvlkVRRKOYFQ3cfYPjLeQ0KvrQ8bG5H11&si=PsaP0KviQYsDxVOc)|
 |Dados TSE|Coleta de dados públicos das eleições brasileiras|Intermediário|Projeto|Assinantes Twitch|[Twitch](https://www.twitch.tv/collections/wO90seh_qxeyTA)|
