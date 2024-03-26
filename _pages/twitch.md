@@ -64,7 +64,7 @@ Requisitos:
 Etapas:
 1. Vincule sua conta da Twitch com a conta da Amazon aqui: gaming.amazon.com/home
 2. Vá até o meu canal (twitch.tv/teomewhy) e clique em: "**Inscrever-se**"
-3. Selecione a opção "**Usar inscrição Prime**"
+3. Há uma opção "Elevar minha assinatura" e selecione "**Usar inscrição Prime**"
 4. Pronto
 
 Observações:
