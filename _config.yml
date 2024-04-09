@@ -17,7 +17,7 @@ title: Téo Me Why
 email: teo@teomewhy.org
 description: >- # this means to ignore newlines until "baseurl:"
   Uma iniciativa de educação gratuita para a área de dados e tecnologia
-twitter_username: teocalvo
+twitter_username: teomewhy
 github_username: teomewhy
 minimal_mistakes_skin: default
 search: true
@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/bio-photo.png"
   bio    : "O Mago dos Dados"
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://"
+    - label: "Newsletter"
+      icon: "fas fa-fw fa-link"
+      url: "https://teomewhy.substack.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/teocalvo"
@@ -79,7 +79,7 @@ author:
       url: "https://twitch.tv/teomewhy"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/teocalvo"
+      url: "https://twitter.com/teomewhy"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@teomewhy"
@@ -100,10 +100,13 @@ footer:
       url: "https://twitch.tv/teomewhy"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/teocalvo"
+      url: "https://twitter.com/teomewhy"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@teomewhy"
+    - label: "Newsletter"
+      icon: "fas fa-fw fa-link"
+      url: "https://teomewhy.substack.com"
 
 defaults:
   # _posts
