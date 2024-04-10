@@ -9,7 +9,7 @@ permalink: /courses
 Acreditamos no trabalho de formiguinha, dia a dia alcançando mais e mais vidas por meio do ensino. Aqui você vai encontrar material sobre Data Science, Estatística, Programação e vários temas ao redor da área de dados e tecnologia.
 
 {: .text-justify}
-Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9AM (horário de Brasília). É um momento descontraído para galera aprender e perguntar bastante! Já fizemos muitoa coisa legal e ainda há muito conteúdo pela frente, confira:
+Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9AM (horário de Brasília). É um momento descontraído para galera aprender e perguntar bastante! Já fizemos muita coisa legal e ainda há muito conteúdo pela frente, confira:
 
 - [Básico em Dados](#básico-em-dados)
     - [Git e GitHub](#git-e-github)
