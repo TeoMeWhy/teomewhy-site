@@ -12,7 +12,7 @@ Acreditamos no trabalho de formiguinha, dia a dia alcançando mais e mais vidas 
 Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9AM (horário de Brasília). É um momento descontraído para galera aprender e perguntar bastante! Já fizemos muitoa coisa legal e ainda há muito conteúdo pela frente, confira:
 
 - [Básico em Dados](#básico-em-dados)
-    - [GitHub](#git-e-github)
+    - [Git e GitHub](#git-e-github)
     - [Introdução à Programação com Python (2024)](#introdução-à-programação-com-python-2024)
     - [Introdução à Programação com Python (2023)](#introdução-à-programação-com-python-2023)
     - [Desbravando Pandas (2024)](#desbravando-pandas-2024)
