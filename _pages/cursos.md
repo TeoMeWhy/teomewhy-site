@@ -11,6 +11,100 @@ Acreditamos no trabalho de formiguinha, dia a dia alcançando mais e mais vidas 
 {: .text-justify}
 Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9:00 Hrs (horário de Brasília). É um momento descontraído para galera aprender e perguntar bastante! Já fizemos muitoa coisa legal e ainda há muito conteúdo pela frente, confira:
 
+## Básico em Dados
+### Desbravando Pandas (2024)
+Primeiros passos com a Lib Pandas para análise e manipulação de dados.
+- Nível: Iniciante
+- Formato: Curso
+- Acesso: Aberto
+- Disponível em: [Twitch](https://www.twitch.tv/collections/TpcyQRUNvBf47g) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSl-XCxNQ1u3uOLvDnYxupG)
+
+### Desbravando Pandas
+Treinamento de Pandas para análise e manipulação de dados
+- Nível: Iniciante
+- Formato: Curso
+- Acesso: Aberto
+- Disponível em: [Twitch](https://www.twitch.tv/collections/Y1BKVydmeRe1YQ)
+
+### Introdução à Programação com Python (2024)
+Introdução a linguagem e lógica de programação com Python.
+- Nível: Iniciante
+- Formato: Curso
+- Acesso: Aberto
+- Disponível em: [Twitch](https://www.twitch.tv/collections/ifV7zaeStxdLGg) / [YouTube](https://youtube.com/playlist?list=PLvlkVRRKOYFRXdquucikNbwYeFzzzYIGb&si=vo6SPepASfL0UkXR)
+
+### Introdução à Programação com Python (2023)
+Curso introdutório para iniciantes em programação utilizando Python.
+- Nível: Iniciante
+- Formato: Curso
+- Acesso: Aberto
+- Disponível em: [Twitch](https://www.twitch.tv/collections/KsRwA0OEbhd_Gw)
+
+### Git e GitHub
+Introdução à versionamento de código.
+- Nível: Iniciante
+- Formato: Curso
+- Acesso: Aberto
+- Disponível em:[Twitch](https://www.twitch.tv/collections/0Y_K7vMBsRf4mw) / [YouTube](https://youtube.com/playlist?list=PLvlkVRRKOYFQ3cfYPjLeQ0KvrQ8bG5H11&si=PsaP0KviQYsDxVOc)
+
+### Trilha SQL
+Primeiro curso de SQL do canal, utilizando dados da Olist.
+- Nível: Iniciante
+- Formato: Curso
+- Acesso: Assinante na Twitch
+- Disponível em: [Twitch](https://www.twitch.tv/collections/IkuI3yO-ShZO-g)
+
+### SQL - Dados GC
+Curso de SQL com dados da Gamers Club.
+- Nível: Iniciante
+- Formato: Curso
+- Acesso: Assinante na Twitch
+- Disponível em: [Twitch](https://www.twitch.tv/collections/1GD1BC-Y3BbhgA)
+
+## Data Science
+### Estatística para Você
+Curso de Estatística básica.
+- Nível: Iniciante
+- Formato: Curso
+- Acesso: Aberto
+- Disponível em:[Twitch](https://www.twitch.tv/collections/GnvvyiEhhBdCuA)
+
+### Machine Learning
+Curso de introdução à Machine Learning.
+- Nível: Iniciante
+- Formato: Curso
+- Acesso: Assinante na Twitch
+- Disponível em: [Twitch](https://www.twitch.tv/collections/vrRnPxxEgxYPpg)
+
+### Machine Learning do início ao fim
+Curso apresentando um ciclo de Machine Learning do começo ao fim em um projeto prático em formato de curso.
+- Nível: Intermediário
+- Formato: Curso
+- Acesso: Aberto
+- Disponível em: [Twitch](https://www.twitch.tv/collections/sG1UU3C2UheIPg)
+
+### Churn Asinaturas GC
+Curso de Machine Learning utilizando dados de Assinaturas da Gamers Club.
+- Nível: Iniciante
+- Formato: Curso
+- Acesso: Assinante na Twitch
+- Disponível em: [Twitch](https://www.twitch.tv/collections/-iVyOjw2ARc93A)
+
+### Data Science - Projeto Assinaturas
+Curso de Machine Learning com predição de novas assinaturas utilizando dados da Gamers Club.
+- Nível: Iniciante
+- Formato: Curso
+- Acesso: Assinante na Twitch
+- Disponível em: [Twitch](https://www.twitch.tv/collections/xDcbIHun4xYMFA)
+
+### Dota Science
+Tentativa de predição de desfecho de partidas de Dota2
+- Nível: Avançado
+- Formato: Projeto
+- Acesso: Assinante na Twitch
+- Disponível em: [Twitch](https://www.twitch.tv/collections/eiQxhCffdBapKQ)
+
+
 |Playlist|Descrição|Nível|Formato|Acesso|Link|
 |---|---|---|---|---|---|
 | Coleta e organização de dados | Como coletar dados na Web de diferentes maneira utilizando Python e suas bibliotecas | Iniciante | Curso | Aberto | [Twitch](https://www.twitch.tv/collections/qDR-u9gMwBeptg) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSrkOL-Bze-42pTdJIAj0_h)|
@@ -35,8 +129,6 @@ Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9:0
 |Machine Learning|Curso de introdução à Machine Learning|Iniciante|Curso|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/vrRnPxxEgxYPpg)|
 |Dota Science|Tentativa de predição de desfecho de partidas de Dota2|Avançado|Projeto|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/eiQxhCffdBapKQ)|
 |Trilha SQL|Primeiro curso de SQL do canal, utilizando dados da Olist|Iniciante|Curso|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/IkuI3yO-ShZO-g)|
-
-<br/><br/>
 
 {: .text-justify}
 Fique por dentro de toda nossa agenda [aqui](/schedule). Você pode vincular seu [Amazon Prime aqui](https://twitch.amazon.com/tp) para ganhar sua assinatura de forma gratuita.
