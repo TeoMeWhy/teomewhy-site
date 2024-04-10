@@ -107,72 +107,68 @@ Tentativa de predição de desfecho de partidas de Dota2.
 
 | Nível | Formato | Acesso | Disponível |
 |:---:|:---:|:---:|:---:|
-| **InicianAvançadote** | **Projeto** | **Assinante na Twitch** | [Twitch](https://www.twitch.tv/collections/eiQxhCffdBapKQ) |
+| **Avançado** | **Projeto** | **Assinante na Twitch** | [Twitch](https://www.twitch.tv/collections/eiQxhCffdBapKQ) |
 
 ## Data Engineer
 ### Coleta e organização de dados
-Como coletar dados na Web de diferentes maneira utilizando Python e suas bibliotecas | 
-- Nível: Iniciante
-- Formato: Curso
-- Acesso: Aberto
-- Disponível em: [Twitch](https://www.twitch.tv/collections/qDR-u9gMwBeptg) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSrkOL-Bze-42pTdJIAj0_h)
+Como coletar dados na Web de diferentes maneira utilizando Python e suas bibliotecas.
+
+| Nível | Formato | Acesso | Disponível |
+|:---:|:---:|:---:|:---:|
+| **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/qDR-u9gMwBeptg) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSrkOL-Bze-42pTdJIAj0_h) |
 
 ### Dados TSE
-Coleta de dados públicos das eleições brasileiras
-- Nível: Iniciante
-- Formato: Projeto
-- Acesso: Assinantes Twitch
-- Disponível em: [Twitch](https://www.twitch.tv/collections/wO90seh_qxeyTA)
+Coleta de dados públicos das eleições brasileiras.
+
+| Nível | Formato | Acesso | Disponível |
+|:---:|:---:|:---:|:---:|
+| **Iniciante** | **Projeto** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/wO90seh_qxeyTA) |
 
 ### The International
-Consumo de dados de Dota2 para predições de partida
-- Nível: Intermediário
-- Formato: Projeto
-- Acesso: Assinantes Twitch
-- Disponível em: [Twitch](https://www.twitch.tv/collections/3DNdc7JXdxccWg)
+Consumo de dados de Dota2 para predições de partida.
+| Nível | Formato | Acesso | Disponível |
+|:---:|:---:|:---:|:---:|
+| **Intermediário** | **Projeto** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/3DNdc7JXdxccWg) |
 
 ### Data SUS
-Consumo e tratamento de dados para construção de Datalake com dados do Sistema de Informações Hospitalares (SIH) do SUS
-- Nível: Intermediário
-- Formato: Projeto
-- Acesso: Assinantes Twitch
-- Disponível em: [Twitch](https://www.twitch.tv/collections/E82inP8ZcRfmWg)
+Consumo e tratamento de dados para construção de Datalake com dados do Sistema de Informações Hospitalares (SIH) do SUS.
+| Nível | Formato | Acesso | Disponível |
+|:---:|:---:|:---:|:---:|
+| **Intermediário** | **Projeto** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/E82inP8ZcRfmWg) |
 
 ### IGDB
 Consumo de dados da API IGDB, catálogo de todos os jogos já lançados no mundo e seus respectivas informações: empresas, thema, modo, notas.
-- Nível: Avançado
-- Formato: Projeto
-- Acesso: Assinantes Twitch
-- Disponível em: [Twitch](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ)
+| Nível | Formato | Acesso | Disponível |
+|:---:|:---:|:---:|:---:|
+| **Avançado** | **Projeto** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ) |
 
 ### Game Lake House
 Criação de um datalake no Databricks para análise de jogo de Dota2
-- Nível: Avançado
-- Formato: Projeto
-- Acesso: Assinantes Twitch
-- Disponível em: [Twitch](https://www.twitch.tv/collections/MpD-VQopEBfOog)
+
+| Nível | Formato | Acesso | Disponível |
+|:---:|:---:|:---:|:---:|
+| **Avançado** | **Projeto** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/MpD-VQopEBfOog) |
 
 ### gc-bricks
-Ingestão de dados da Gamers Club no Databricks
-- Nível: Iniciante
-- Formato: Projeto
-- Acesso: Assinantes Twitch
-- Disponível em: [Twitch](https://www.twitch.tv/collections/RfkhG2pJ7xY2TA)
+Ingestão de dados da Gamers Club no Databricks.
+
+| Nível | Formato | Acesso | Disponível |
+|:---:|:---:|:---:|:---:|
+| **Iniciante** | **Projeto** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/RfkhG2pJ7xY2TA) |
 
 ### Dotabricks
-Criação de um Datalake no Databricks para armazenar e organizar dados de Dota2
-- Nível: Avançado
-- Formato: Projeto
-- Acesso: Assinantes Twitch
-- Disponível em: [Twitch](https://www.twitch.tv/collections/t625I7F_0RZKMg)
+Criação de um Datalake no Databricks para armazenar e organizar dados de Dota2.
+
+| Nível | Formato | Acesso | Disponível |
+|:---:|:---:|:---:|:---:|
+| **Avançado** | **Projeto** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/t625I7F_0RZKMg) |
 
 ## Software Engineer
 ### Estudos Backend com GoLang
 Estou aprendendo GoLang em live e você pode conferir como faço para estudar e minha trilha de estudos.
-- Nível: Iniciante
-- Formato: Estudos
-- Acesso: Assinantes Twitch
-- Disponível em: [Twitch](https://www.twitch.tv/collections/AyJXQs-3bhfPGQ)
+| Nível | Formato | Acesso | Disponível |
+|:---:|:---:|:---:|:---:|
+| **Iniciante** | **Estudos** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/AyJXQs-3bhfPGQ) |
 
 {: .text-justify}
 Fique por dentro de toda nossa agenda [aqui](/schedule). Você pode vincular seu [Amazon Prime aqui](https://twitch.amazon.com/tp) para ganhar sua assinatura de forma gratuita.
