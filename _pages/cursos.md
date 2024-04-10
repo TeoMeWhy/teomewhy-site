@@ -12,24 +12,39 @@ Acreditamos no trabalho de formiguinha, dia a dia alcançando mais e mais vidas 
 Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9:00 Hrs (horário de Brasília). É um momento descontraído para galera aprender e perguntar bastante! Já fizemos muitoa coisa legal e ainda há muito conteúdo pela frente, confira:
 
 - [Básico em Dados](#básico-em-dados)
+    - [GitHub](#git-e-github)
+    - [Introdução à Programação com Python (2024)](#introdução-à-programação-com-python-2024)
+    - [Introdução à Programação com Python (2023)](#introdução-à-programação-com-python-2023)
+    - [Desbravando Pandas (2024)](#desbravando-pandas-2024)
+    - [Desbravando Pandas (2023)](#desbravando-pandas-2023)
+    - [Trilha SQL](#trilha-sql)
+    - [SQL - Dados GC](#sql---dados-gc)
 - [Data Science](#data-science)
+    - [Estatística para Você (2023)](#estatística-para-você-2023)
+    - [Machine Learning](#machine-learning)
+    - [Machine Learning do início ao fim](#machine-learning-do-início-ao-fim)
+    - [Churn Asinaturas GC](#churn-asinaturas-gc)
+    - [Data Science - Projeto Assinaturas](#data-science---projeto-assinaturas)
+    - [Dota Science](#dota-science)
 - [Data Engineer](#data-engineer)
+    - [Coleta e organização de dados](#coleta-e-organização-de-dados)
+    - [Dados TSE](#dados-tse)
+    - [The International](#the-international)
+    - [Data SUS](#data-sus)
+    - [IGDB](#igdb)
+    - [Game Lake House](#game-lake-house)
+    - [gc-bricks](#gc-bricks)
+    - [Dotabricks](#dotabricks)
 - [Software Engineer](#software-engineer)
+    - [Estudos Backend com GoLang](#estudos-backend-com-golang)
 
 ## Básico em Dados
-### Desbravando Pandas (2024)
-Primeiros passos com a Lib Pandas para análise e manipulação de dados.
+### Git e GitHub
+Introdução à versionamento de código.
 
 | Nível | Formato | Acesso | Disponível |
 |:---:|:---:|:---:|:---:|
-|**Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/TpcyQRUNvBf47g) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSl-XCxNQ1u3uOLvDnYxupG) |
-
-### Desbravando Pandas
-Treinamento de Pandas para análise e manipulação de dados.
-
-| Nível | Formato | Acesso | Disponível |
-|:---:|:---:|:---:|:---:|
-| **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/Y1BKVydmeRe1YQ) |
+| **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/0Y_K7vMBsRf4mw) / [YouTube](https://youtube.com/playlist?list=PLvlkVRRKOYFQ3cfYPjLeQ0KvrQ8bG5H11&si=PsaP0KviQYsDxVOc) |
 
 ### Introdução à Programação com Python (2024)
 Introdução a linguagem e lógica de programação com Python.
@@ -45,12 +60,19 @@ Curso introdutório para iniciantes em programação utilizando Python.
 |:---:|:---:|:---:|:---:|
 | **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/KsRwA0OEbhd_Gw)|
 
-### Git e GitHub
-Introdução à versionamento de código.
+### Desbravando Pandas (2024)
+Primeiros passos com a Lib Pandas para análise e manipulação de dados.
 
 | Nível | Formato | Acesso | Disponível |
 |:---:|:---:|:---:|:---:|
-| **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/0Y_K7vMBsRf4mw) / [YouTube](https://youtube.com/playlist?list=PLvlkVRRKOYFQ3cfYPjLeQ0KvrQ8bG5H11&si=PsaP0KviQYsDxVOc) |
+|**Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/TpcyQRUNvBf47g) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSl-XCxNQ1u3uOLvDnYxupG) |
+
+### Desbravando Pandas (2023)
+Treinamento de Pandas para análise e manipulação de dados.
+
+| Nível | Formato | Acesso | Disponível |
+|:---:|:---:|:---:|:---:|
+| **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/Y1BKVydmeRe1YQ) |
 
 ### Trilha SQL
 Primeiro curso de SQL do canal, utilizando dados da Olist.
@@ -67,7 +89,7 @@ Curso de SQL com dados da Gamers Club.
 | **Iniciante** | **Curso** | **Assinante na Twitch** | [Twitch](https://www.twitch.tv/collections/1GD1BC-Y3BbhgA) |
 
 ## Data Science
-### Estatística para Você
+### Estatística para Você (2023)
 Curso de Estatística básica.
 
 | Nível | Formato | Acesso | Disponível |
