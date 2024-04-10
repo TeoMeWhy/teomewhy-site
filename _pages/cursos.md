@@ -148,18 +148,21 @@ Coleta de dados públicos das eleições brasileiras.
 
 ### The International
 Consumo de dados de Dota2 para predições de partida.
+
 | Nível | Formato | Acesso | Disponível |
 |:---:|:---:|:---:|:---:|
 | **Intermediário** | **Projeto** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/3DNdc7JXdxccWg) |
 
 ### Data SUS
 Consumo e tratamento de dados para construção de Datalake com dados do Sistema de Informações Hospitalares (SIH) do SUS.
+
 | Nível | Formato | Acesso | Disponível |
 |:---:|:---:|:---:|:---:|
 | **Intermediário** | **Projeto** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/E82inP8ZcRfmWg) |
 
 ### IGDB
 Consumo de dados da API IGDB, catálogo de todos os jogos já lançados no mundo e seus respectivas informações: empresas, thema, modo, notas.
+
 | Nível | Formato | Acesso | Disponível |
 |:---:|:---:|:---:|:---:|
 | **Avançado** | **Projeto** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ) |
@@ -188,6 +191,7 @@ Criação de um Datalake no Databricks para armazenar e organizar dados de Dota2
 ## Software Engineer
 ### Estudos Backend com GoLang
 Estou aprendendo GoLang em live e você pode conferir como faço para estudar e minha trilha de estudos.
+
 | Nível | Formato | Acesso | Disponível |
 |:---:|:---:|:---:|:---:|
 | **Iniciante** | **Estudos** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/AyJXQs-3bhfPGQ) |
