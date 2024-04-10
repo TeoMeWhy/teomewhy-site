@@ -26,7 +26,9 @@ Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9:0
 Primeiros passos com a Lib Pandas para análise e manipulação de dados.
 
 ### Desbravando Pandas
-| Nível: **Iniciante** | Formato: **Curso** | Acesso: **Aberto** | Disponível em: [Twitch](https://www.twitch.tv/collections/Y1BKVydmeRe1YQ) |
+|Nível | Formato | Acesso | Disponível |
+|:---:|:---:|:---:|:---:|
+| **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/Y1BKVydmeRe1YQ) |
 
 Treinamento de Pandas para análise e manipulação de dados
 
