@@ -11,6 +11,11 @@ Acreditamos no trabalho de formiguinha, dia a dia alcançando mais e mais vidas 
 {: .text-justify}
 Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9:00 Hrs (horário de Brasília). É um momento descontraído para galera aprender e perguntar bastante! Já fizemos muitoa coisa legal e ainda há muito conteúdo pela frente, confira:
 
+- [Básico em Dados](#básico-em-dados)
+- [Data Science](#data-science)
+- [Data Engineer](#data-engineer)
+- [Software Engineer](#software-engineer)
+
 ## Básico em Dados
 ### Desbravando Pandas (2024)
 Primeiros passos com a Lib Pandas para análise e manipulação de dados.
@@ -104,31 +109,70 @@ Tentativa de predição de desfecho de partidas de Dota2
 - Acesso: Assinante na Twitch
 - Disponível em: [Twitch](https://www.twitch.tv/collections/eiQxhCffdBapKQ)
 
+## Data Engineer
+### Coleta e organização de dados
+Como coletar dados na Web de diferentes maneira utilizando Python e suas bibliotecas | 
+- Nível: Iniciante
+- Formato: Curso
+- Acesso: Aberto
+- Disponível em: [Twitch](https://www.twitch.tv/collections/qDR-u9gMwBeptg) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSrkOL-Bze-42pTdJIAj0_h)
 
-|Playlist|Descrição|Nível|Formato|Acesso|Link|
-|---|---|---|---|---|---|
-| Coleta e organização de dados | Como coletar dados na Web de diferentes maneira utilizando Python e suas bibliotecas | Iniciante | Curso | Aberto | [Twitch](https://www.twitch.tv/collections/qDR-u9gMwBeptg) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSrkOL-Bze-42pTdJIAj0_h)|
-| Desbravando Pandas | Primeiros passos com a Lib Pandas para análise e manipulação de dados|Iniciante|Curso|Aberto|[Twitch](https://www.twitch.tv/collections/TpcyQRUNvBf47g) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSl-XCxNQ1u3uOLvDnYxupG)|
-|Introdução à Programação com Python| Introdução a linguagem e lógica de programação com Python|Iniciante|Curso|Aberto|[Twitch](https://www.twitch.tv/collections/ifV7zaeStxdLGg) / [YouTube](https://youtube.com/playlist?list=PLvlkVRRKOYFRXdquucikNbwYeFzzzYIGb&si=vo6SPepASfL0UkXR)|
-|Git e GitHub|Introdução à versionamento de código|Iniciante|Curso|Aberto|[Twitch](https://www.twitch.tv/collections/0Y_K7vMBsRf4mw) / [YouTube](https://youtube.com/playlist?list=PLvlkVRRKOYFQ3cfYPjLeQ0KvrQ8bG5H11&si=PsaP0KviQYsDxVOc)|
-|Dados TSE|Coleta de dados públicos das eleições brasileiras|Intermediário|Projeto|Assinantes Twitch|[Twitch](https://www.twitch.tv/collections/wO90seh_qxeyTA)|
-|Estatística para Você|Curso de Estatística básica|Iniciante|Curso|Aberto|[Twitch](https://www.twitch.tv/collections/GnvvyiEhhBdCuA)|
-|The International|Consumo de dados de Dota2 para predições de partida|Intermediário|Projeto|Assinantes Twitch|[Twitch](https://www.twitch.tv/collections/3DNdc7JXdxccWg)|
-|Data SUS|Consumo e tratamento de dados para construção de Datalake com dados do Sistema de Informações Hospitalares (SIH) do SUS|Intermediário|Projeto|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/E82inP8ZcRfmWg)|
-|Desbravando Pandas|Treinamento de Pandas para análise e manipulação de dados|Iniciante|Curso|Aberto|[Twitch](https://www.twitch.tv/collections/Y1BKVydmeRe1YQ)|
-|Introdução à Programação com Python|Curso introdutório para iniciantes em programação utilizando Python|Inciante|Curso|Aberto|[Twitch](https://www.twitch.tv/collections/KsRwA0OEbhd_Gw)|
-|Estudos Backend com GoLang|Estou aprendendo GoLang em live e você pode conferir como faço para estudar e minha trilha de estudos|Iniciante|Estudos|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/AyJXQs-3bhfPGQ)|
-|IGDB|Consumo de dados da API IGDB, catálogo de todos os jogos já lançados no mundo e seus respectivas informações: empresas, thema, modo, notas.|Avançado|Projeto|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ)|
-|Machine Learning do início ao fim|Curso apresentando um ciclo de Machine Learning do começo ao fim em um projeto prático em formato de curso|Intermediário|Curso|Aberto|[Twitch](https://www.twitch.tv/collections/sG1UU3C2UheIPg)|
-|Game Lake House|Criação de um datalake no Databricks para análise de jogo de Dota2|Avançado|Projeto|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/MpD-VQopEBfOog)|
-|Churn Asinaturas GC|Curso de Machine Learning utilizando dados de Assinaturas da Gamers Club |Iniciante|Curso|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/-iVyOjw2ARc93A)|
-|gc-bricks|Ingestão de dados da Gamers Club no Databricks|Iniciante|Projeto|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/RfkhG2pJ7xY2TA)|
-|Data Science - Projeto Assinaturas|Curso de Machine Learning com predição de novas assinaturas utilizando dados da Gamers Club|Iniciante|Curso|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/xDcbIHun4xYMFA)|
-|SQL - Dados GC|Curso de SQL com dados da Gamers Club|Iniciante|Curso|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/1GD1BC-Y3BbhgA)|
-|Dotabricks|Criação de um Datalake no Databricks para armazenar e organizar dados de Dota2|Avançado|Projeto|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/t625I7F_0RZKMg)|
-|Machine Learning|Curso de introdução à Machine Learning|Iniciante|Curso|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/vrRnPxxEgxYPpg)|
-|Dota Science|Tentativa de predição de desfecho de partidas de Dota2|Avançado|Projeto|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/eiQxhCffdBapKQ)|
-|Trilha SQL|Primeiro curso de SQL do canal, utilizando dados da Olist|Iniciante|Curso|Assinante na Twitch|[Twitch](https://www.twitch.tv/collections/IkuI3yO-ShZO-g)|
+### Dados TSE
+Coleta de dados públicos das eleições brasileiras
+- Nível: Iniciante
+- Formato: Projeto
+- Acesso: Assinantes Twitch
+- Disponível em: [Twitch](https://www.twitch.tv/collections/wO90seh_qxeyTA)
+
+### The International
+Consumo de dados de Dota2 para predições de partida
+- Nível: Intermediário
+- Formato: Projeto
+- Acesso: Assinantes Twitch
+- Disponível em: [Twitch](https://www.twitch.tv/collections/3DNdc7JXdxccWg)
+
+### Data SUS
+Consumo e tratamento de dados para construção de Datalake com dados do Sistema de Informações Hospitalares (SIH) do SUS
+- Nível: Intermediário
+- Formato: Projeto
+- Acesso: Assinantes Twitch
+- Disponível em: [Twitch](https://www.twitch.tv/collections/E82inP8ZcRfmWg)
+
+### IGDB
+Consumo de dados da API IGDB, catálogo de todos os jogos já lançados no mundo e seus respectivas informações: empresas, thema, modo, notas.
+- Nível: Avançado
+- Formato: Projeto
+- Acesso: Assinantes Twitch
+- Disponível em: [Twitch](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ)
+
+### Game Lake House
+Criação de um datalake no Databricks para análise de jogo de Dota2
+- Nível: Avançado
+- Formato: Projeto
+- Acesso: Assinantes Twitch
+- Disponível em: [Twitch](https://www.twitch.tv/collections/MpD-VQopEBfOog)
+
+### gc-bricks
+Ingestão de dados da Gamers Club no Databricks
+- Nível: Iniciante
+- Formato: Projeto
+- Acesso: Assinantes Twitch
+- Disponível em: [Twitch](https://www.twitch.tv/collections/RfkhG2pJ7xY2TA)
+
+### Dotabricks
+Criação de um Datalake no Databricks para armazenar e organizar dados de Dota2
+- Nível: Avançado
+- Formato: Projeto
+- Acesso: Assinantes Twitch
+- Disponível em: [Twitch](https://www.twitch.tv/collections/t625I7F_0RZKMg)
+
+## Software Engineer
+### Estudos Backend com GoLang
+Estou aprendendo GoLang em live e você pode conferir como faço para estudar e minha trilha de estudos.
+- Nível: Iniciante
+- Formato: Estudos
+- Acesso: Assinantes Twitch
+- Disponível em: [Twitch](https://www.twitch.tv/collections/AyJXQs-3bhfPGQ)
 
 {: .text-justify}
 Fique por dentro de toda nossa agenda [aqui](/schedule). Você pode vincular seu [Amazon Prime aqui](https://twitch.amazon.com/tp) para ganhar sua assinatura de forma gratuita.
