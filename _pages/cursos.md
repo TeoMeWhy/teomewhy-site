@@ -19,16 +19,12 @@ Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9:0
 ## Básico em Dados
 ### Desbravando Pandas (2024)
 Primeiros passos com a Lib Pandas para análise e manipulação de dados.
-- Nível: Iniciante
-- Formato: Curso
-- Acesso: Aberto
+- Nível: **Iniciante** | Formato: **Curso** | Acesso: **Aberto**
 - Disponível em: [Twitch](https://www.twitch.tv/collections/TpcyQRUNvBf47g) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSl-XCxNQ1u3uOLvDnYxupG)
 
 ### Desbravando Pandas
 Treinamento de Pandas para análise e manipulação de dados
-- Nível: Iniciante
-- Formato: Curso
-- Acesso: Aberto
+- Nível: **Iniciante** | Formato: **Curso** | Acesso: **Aberto**
 - Disponível em: [Twitch](https://www.twitch.tv/collections/Y1BKVydmeRe1YQ)
 
 ### Introdução à Programação com Python (2024)
