@@ -23,7 +23,7 @@ Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9AM
     - [Estatística para Você (2023)](#estatística-para-você-2023)
     - [Machine Learning](#machine-learning)
     - [Machine Learning do início ao fim](#machine-learning-do-início-ao-fim)
-    - [Churn Asinaturas GC](#churn-asinaturas-gc)
+    - [Churn Assinaturas GC](#churn-assinaturas-gc)
     - [Data Science - Projeto Assinaturas](#data-science---projeto-assinaturas)
     - [Dota Science](#dota-science)
 - [Data Engineer](#data-engineer)
@@ -110,7 +110,7 @@ Curso apresentando um ciclo de Machine Learning do começo ao fim em um projeto 
 |:---:|:---:|:---:|:---:|
 | **Intermediário** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/sG1UU3C2UheIPg) |
 
-### Churn Asinaturas GC
+### Churn Assinaturas GC
 Curso de Machine Learning utilizando dados de Assinaturas da Gamers Club.
 
 | Nível | Formato | Acesso | Disponível |
