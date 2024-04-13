@@ -19,7 +19,6 @@ Vou além, a maior parte dessa relação é criada e sustentada não pelo diálo
 
 A verdadeira liderança não é um decreto de posse ou até mesmo um cargo. A liderança é uma posição que será ocupada por alguém que o próprio time reconhecerá, você querendo ou não, de maneira formal ou não. Isso é tão forte que independe do que você acha ou o que qualquer outra pessoa acima de você possa decidir (a não ser trocar o time todo).
 
-
 ## O papel da liderança
 Treinamentos sobre o tema, materiais institucionais e um bocado de chefes dirão algo próximo a: o papel da liderança é garantir que seus liderados estejam alinhados com os interesses da companhia.
 
