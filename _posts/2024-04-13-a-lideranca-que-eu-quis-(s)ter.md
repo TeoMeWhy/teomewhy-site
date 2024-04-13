@@ -48,7 +48,7 @@ Me arrisco a afirmar que o pior tipo de liderança que existe, é aquela que ten
 
 Essa palavra chave que muda o jogo: transparência. Para mim é um valor que carrego, compartilhando o máximo de informação possível com meu time (dentro da confidencialidade) para que possam tomar as melhores decisões possíveis, afinal, somos todos adultos e devemos ser tratados como tal.
 
-O peso de cada decisão sua deve cair sobre você ou ser escalada para cima, nunca descer sobre seus membros. Por isso faça cada decisão de forma sóbria e planejada, conte com seu liderança direta e pares, você não precisa resolver tudo de forma solitária.
+O peso de cada decisão sua deve cair sobre você ou ser escalada para cima, nunca descer sobre seus membros. Por isso faça cada decisão de forma sóbria e planejada, conte com sua liderança direta e pares, você não precisa resolver tudo de forma solitária.
 
 ## Por que ser liderança?
 Porque precisamos mudar o mundo.
