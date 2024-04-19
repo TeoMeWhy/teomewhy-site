@@ -20,6 +20,7 @@ Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9AM
     - [Trilha SQL](#trilha-sql)
     - [SQL - Dados GC](#sql---dados-gc)
 - [Data Science](#data-science)
+    - [Estatística Básica](#estatística-básica-2024)
     - [Estatística para Você (2023)](#estatística-para-você-2023)
     - [Machine Learning](#machine-learning)
     - [Machine Learning do início ao fim](#machine-learning-do-início-ao-fim)
@@ -86,9 +87,16 @@ Curso de SQL com dados da Gamers Club.
 
 | Nível | Formato | Acesso | Disponível |
 |:---:|:---:|:---:|:---:|
-| **Iniciante** | **Curso** | **Assinante na Twitch** | [Twitch](https://www.twitch.tv/collections/1GD1BC-Y3BbhgA) |
+| **Iniciante** | **Curso** | **Assinante na Twitch** | [Twitch](https://www.twitch.tv/collections/6sM5PdmdxhcS3w) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSWIyhwq4Nu8sNd_GfOi1tj) |
 
 ## Data Science
+### Estatística Básica (2024)
+Curso de Estatística básica.
+
+| Nível | Formato | Acesso | Disponível |
+|:---:|:---:|:---:|:---:|
+| **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/GnvvyiEhhBdCuA) |
+
 ### Estatística para Você (2023)
 Curso de Estatística básica.
 
