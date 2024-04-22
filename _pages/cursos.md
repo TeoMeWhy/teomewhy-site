@@ -20,7 +20,7 @@ Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9AM
     - [Trilha SQL](#trilha-sql)
     - [SQL - Dados GC](#sql---dados-gc)
 - [Data Science](#data-science)
-    - [Estatística Básica](#estatística-básica-2024)
+    - [Estatística Básica (2024)](#estatística-básica-2024)
     - [Estatística para Você (2023)](#estatística-para-você-2023)
     - [Machine Learning](#machine-learning)
     - [Machine Learning do início ao fim](#machine-learning-do-início-ao-fim)
@@ -95,7 +95,7 @@ Curso de Estatística básica.
 
 | Nível | Formato | Acesso | Disponível |
 |:---:|:---:|:---:|:---:|
-| **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/GnvvyiEhhBdCuA) |
+| **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/6sM5PdmdxhcS3w) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSWIyhwq4Nu8sNd_GfOi1tj) |
 
 ### Estatística para Você (2023)
 Curso de Estatística básica.
