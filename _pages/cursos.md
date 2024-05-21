@@ -22,6 +22,7 @@ Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9AM
 - [Data Science](#data-science)
     - [Estatística Básica (2024)](#estatística-básica-2024)
     - [Estatística para Você (2023)](#estatística-para-você-2023)
+    - [Machine Learning para Pôneis]()    
     - [Machine Learning](#machine-learning)
     - [Machine Learning do início ao fim](#machine-learning-do-início-ao-fim)
     - [Churn Assinaturas GC](#churn-assinaturas-gc)
@@ -104,6 +105,12 @@ Curso de Estatística básica.
 |:---:|:---:|:---:|:---:|
 | **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/GnvvyiEhhBdCuA) |
 
+## Machine Learning para Pôneis
+| Nível | Formato | Acesso | Disponível |
+|:---:|:---:|:---:|:---:|
+| **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/B7O8mo0SzxcXnA) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFTXcpttQSZmv1wDg7F3uH7o) |
+
+
 ### Machine Learning
 Curso de introdução à Machine Learning.
 
@@ -173,7 +180,7 @@ Consumo de dados da API IGDB, catálogo de todos os jogos já lançados no mundo
 
 | Nível | Formato | Acesso | Disponível |
 |:---:|:---:|:---:|:---:|
-| **Avançado** | **Projeto** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ) |
+| **Avançado** | **Projeto** | **Assinantes Twitch e Membros Youtube** | [Twitch](https://www.twitch.tv/collections/D8xJ12cDZBe_lQ) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFTIPeacwkrA-OVFWwy5unNR) |
 
 ### Game Lake House
 Criação de um datalake no Databricks para análise de jogo de Dota2
