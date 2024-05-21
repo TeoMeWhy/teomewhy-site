@@ -22,7 +22,7 @@ Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9AM
 - [Data Science](#data-science)
     - [Estatística Básica (2024)](#estatística-básica-2024)
     - [Estatística para Você (2023)](#estatística-para-você-2023)
-    - [Machine Learning para Pôneis]()    
+    - [Machine Learning para Pôneis](#machine-learning-para-pôneis)    
     - [Machine Learning](#machine-learning)
     - [Machine Learning do início ao fim](#machine-learning-do-início-ao-fim)
     - [Churn Assinaturas GC](#churn-assinaturas-gc)
