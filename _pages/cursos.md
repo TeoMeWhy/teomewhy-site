@@ -9,7 +9,24 @@ permalink: /courses
 Acreditamos no trabalho de formiguinha, dia a dia alcançando mais e mais vidas por meio do ensino. Aqui você vai encontrar material sobre Data Science, Estatística, Programação e vários temas ao redor da área de dados e tecnologia.
 
 {: .text-justify}
-Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9AM (horário de Brasília). É um momento descontraído para galera aprender e perguntar bastante! Já fizemos muita coisa legal e ainda há muito conteúdo pela frente, confira:
+Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9AM (horário de Brasília). É um momento descontraído para galera aprender e perguntar bastante! Já fizemos muita coisa legal e ainda há muito conteúdo pela frente.
+
+Sugestão de trilha para Data Science e Data Analytics (em ordem):
+
+- [Básico em Dados](#básico-em-dados)
+    - [Git e GitHub](#git-e-github)
+    - [Introdução à Programação com Python (2024)](#introdução-à-programação-com-python-2024)
+    - [Desbravando Pandas (2024)](#desbravando-pandas-2024)
+    - [Trilha SQL](#trilha-sql)
+- [Data Science](#data-science)
+    - [Estatística Básica (2024)](#estatística-básica-2024)
+    - [Machine Learning para Pôneis](#machine-learning-para-pôneis)    
+    - [Machine Learning do início ao fim](#machine-learning-do-início-ao-fim)
+    - [Churn Assinaturas GC](#churn-assinaturas-gc)
+    - [Data Science - Projeto Assinaturas](#data-science---projeto-assinaturas)
+    - [Dota Science](#dota-science)
+
+Lista de conteúdo completa!
 
 - [Básico em Dados](#básico-em-dados)
     - [Git e GitHub](#git-e-github)
