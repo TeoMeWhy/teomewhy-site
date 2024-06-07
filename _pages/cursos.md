@@ -14,21 +14,21 @@ Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9AM
 Sugestão de trilha para Data Science e Data Analytics (em ordem):
 <details>
 <summary>Básico em Dados</summary>
-- [Git e GitHub](#git-e-github)
-- [Introdução à Programação com Python (2024)](#introdução-à-programação-com-python-2024)
-- [Desbravando Pandas (2024)](#desbravando-pandas-2024)
-- [Trilha SQL](#trilha-sql)
+[Git e GitHub](#git-e-github)
+[Introdução à Programação com Python (2024)](#introdução-à-programação-com-python-2024)
+[Desbravando Pandas (2024)](#desbravando-pandas-2024)
+[Trilha SQL](#trilha-sql)
 </details>
 
 <details>   
 <summary>Data Science</summary>
-- [Estatística Básica (2024)](#estatística-básica-2024)
-- [Machine Learning para Pôneis](#machine-learning-para-pôneis)
-- [Data Science Pontos](#data-science-e-pontos)
-- [Machine Learning do início ao fim](#machine-learning-do-início-ao-fim)
-- [Churn Assinaturas GC](#churn-assinaturas-gc)
-- [Data Science - Projeto Assinaturas](#data-science---projeto-assinaturas)
-- [Dota Science](#dota-science)
+[Estatística Básica (2024)](#estatística-básica-2024)
+[Machine Learning para Pôneis](#machine-learning-para-pôneis)
+[Data Science Pontos](#data-science-e-pontos)
+[Machine Learning do início ao fim](#machine-learning-do-início-ao-fim)
+[Churn Assinaturas GC](#churn-assinaturas-gc)
+[Data Science - Projeto Assinaturas](#data-science---projeto-assinaturas)
+[Dota Science](#dota-science)
 </details>
 
 Lista de conteúdo completa!
