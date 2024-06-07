@@ -12,12 +12,14 @@ Acreditamos no trabalho de formiguinha, dia a dia alcançando mais e mais vidas 
 Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9AM (horário de Brasília). É um momento descontraído para galera aprender e perguntar bastante! Já fizemos muita coisa legal e ainda há muito conteúdo pela frente.
 
 Sugestão de trilha para Data Science e Data Analytics (em ordem):
-
-- [Básico em Dados](#básico-em-dados)
+<details>
+<summary>[Básico em Dados](#básico-em-dados)<summary>
     - [Git e GitHub](#git-e-github)
     - [Introdução à Programação com Python (2024)](#introdução-à-programação-com-python-2024)
     - [Desbravando Pandas (2024)](#desbravando-pandas-2024)
     - [Trilha SQL](#trilha-sql)
+</details>
+
 - [Data Science](#data-science)
     - [Estatística Básica (2024)](#estatística-básica-2024)
     - [Machine Learning para Pôneis](#machine-learning-para-pôneis)
@@ -127,9 +129,9 @@ Curso de Estatística básica.
 ## Machine Learning para Pôneis
 Curso de Introdução à Machine Learning com as principais técnicas de Classificação e Regressão.
 
-| Nível | Formato | Acesso | Disponível |
-|:---:|:---:|:---:|:---:|
-| **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/B7O8mo0SzxcXnA) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFTXcpttQSZmv1wDg7F3uH7o) |
+| Nível | Formato | Acesso | Disponível | Repositório |
+|:---:|:---:|:---:|:---:|:---:|
+| **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/B7O8mo0SzxcXnA) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFTXcpttQSZmv1wDg7F3uH7o) | [Github](https://github.com/TeoMeWhy/ml-4-poneis) |
 
 ## Data Science e Pontos
 Projeto completo de Data Science construindo um modelo de ML para perdição de Churn.
