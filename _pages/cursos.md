@@ -71,9 +71,9 @@ Introdução à versionamento de código.
 ### Introdução à Programação com Python (2024)
 Introdução a linguagem e lógica de programação com Python.
 
-| Nível | Formato | Acesso | Disponível |
-|:---:|:---:|:---:|:---:|
-| **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/ifV7zaeStxdLGg) / [YouTube](https://youtube.com/playlist?list=PLvlkVRRKOYFRXdquucikNbwYeFzzzYIGb&si=vo6SPepASfL0UkXR) |
+| Nível | Formato | Acesso | Disponível | Repositório |
+|:---:|:---:|:---:|:---:|:---:|
+| **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/ifV7zaeStxdLGg) / [YouTube](https://youtube.com/playlist?list=PLvlkVRRKOYFRXdquucikNbwYeFzzzYIGb&si=vo6SPepASfL0UkXR) | [GitHub](https://github.com/TeoMeWhy/python-2024) |
 
 ### Introdução à Programação com Python (2023)
 Curso introdutório para iniciantes em programação utilizando Python.
@@ -85,9 +85,9 @@ Curso introdutório para iniciantes em programação utilizando Python.
 ### Desbravando Pandas (2024)
 Primeiros passos com a Lib Pandas para análise e manipulação de dados.
 
-| Nível | Formato | Acesso | Disponível |
-|:---:|:---:|:---:|:---:|
-|**Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/TpcyQRUNvBf47g) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSl-XCxNQ1u3uOLvDnYxupG) |
+| Nível | Formato | Acesso | Disponível | Repositório |
+|:---:|:---:|:---:|:---:|:---:|
+|**Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/TpcyQRUNvBf47g) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSl-XCxNQ1u3uOLvDnYxupG) | [GitHub](https://github.com/TeoMeWhy/desbravando-pandas)
 
 ### Desbravando Pandas (2023)
 Treinamento de Pandas para análise e manipulação de dados.
