@@ -127,6 +127,11 @@ Curso de Estatística básica.
 |:---:|:---:|:---:|:---:|
 | **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/B7O8mo0SzxcXnA) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFTXcpttQSZmv1wDg7F3uH7o) |
 
+## Data Science e Pontos
+| Nível | Formato | Acesso | Disponível | Repositório |
+|:---:|:---:|:---:|:---:|
+| **Intermediário** | **Projeto** | **Subs e Membros** | [Twitch](https://www.twitch.tv/collections/jg9itHOO1ReLcw) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQOkwDvfgCvKi9-I1jQXiy7) | [GitHub](https://github.com/TeoMeWhy/ds-points) |
+
 
 ### Machine Learning
 Curso de introdução à Machine Learning.
