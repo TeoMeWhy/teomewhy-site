@@ -13,14 +13,15 @@ Fazemos lives na [Twitch](https://twitch.tv/teomewhy) de segunda a sexta às 9AM
 
 Sugestão de trilha para Data Science e Data Analytics (em ordem):
 <details>
-<summary>[Básico em Dados](#básico-em-dados)<summary>
+<summary>[Básico em Dados](#básico-em-dados)</summary>
     - [Git e GitHub](#git-e-github)
     - [Introdução à Programação com Python (2024)](#introdução-à-programação-com-python-2024)
     - [Desbravando Pandas (2024)](#desbravando-pandas-2024)
     - [Trilha SQL](#trilha-sql)
 </details>
 
-- [Data Science](#data-science)
+<details>   
+<summary>[Data Science](#data-science)</summary>
     - [Estatística Básica (2024)](#estatística-básica-2024)
     - [Machine Learning para Pôneis](#machine-learning-para-pôneis)
     - [Data Science Pontos](#data-science-e-pontos)
@@ -28,6 +29,7 @@ Sugestão de trilha para Data Science e Data Analytics (em ordem):
     - [Churn Assinaturas GC](#churn-assinaturas-gc)
     - [Data Science - Projeto Assinaturas](#data-science---projeto-assinaturas)
     - [Dota Science](#dota-science)
+</details>
 
 Lista de conteúdo completa!
 
