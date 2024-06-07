@@ -22,12 +22,19 @@ Sugestão de trilha para Data Science e Data Analytics (em ordem):
 
 <details>   
 <summary>Data Science</summary>
+
 [Estatística Básica (2024)](#estatística-básica-2024)
+
 [Machine Learning para Pôneis](#machine-learning-para-pôneis)
+
 [Data Science Pontos](#data-science-e-pontos)
+
 [Machine Learning do início ao fim](#machine-learning-do-início-ao-fim)
+
 [Churn Assinaturas GC](#churn-assinaturas-gc)
+
 [Data Science - Projeto Assinaturas](#data-science---projeto-assinaturas)
+
 [Dota Science](#dota-science)
 </details>
 
