@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Quebranco o hábito"
+title:  "Quebrando o hábito"
 date:   2024-07-03 22:50:00 -0300
 categories: guru
 ---
