@@ -183,6 +183,14 @@ Como coletar dados na Web de diferentes maneira utilizando Python e suas bibliot
 |:---:|:---:|:---:|:---:|
 | **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/qDR-u9gMwBeptg) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSrkOL-Bze-42pTdJIAj0_h) |
 
+### Lago do Mago
+Ingestão de dados a partir de dados em Raw (full-load + CDC) utilizando streaming.
+
+| Nível | Formato | Acesso | Disponível | Repositório |
+|:---:|:---:|:---:|:---:|:---:|
+| **Intermediário** | **Projeto** | **Subs e Membros** | [Twitch](https://www.twitch.tv/collections/2e8D0Vgd3hf04g) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFTcLehYZ2Bd5hGIcLH0dJHE) | [GitHub](https://github.com/TeoMeWhy/lago-mago) |
+
+
 ### Dados TSE
 Coleta de dados públicos das eleições brasileiras.
 
