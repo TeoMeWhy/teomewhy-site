@@ -50,6 +50,7 @@ Sugestão de trilha para Data Science e Data Analytics (em ordem):
     - [Dota Science](#dota-science)
 - [Data Engineer](#data-engineer)
     - [Coleta e organização de dados](#coleta-e-organização-de-dados)
+    - [Lago do Mago](#lago-do-mago)
     - [Dados TSE](#dados-tse)
     - [The International](#the-international)
     - [Data SUS](#data-sus)
