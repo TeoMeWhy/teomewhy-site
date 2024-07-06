@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: post
 title:  "Luz, câmera, código!"
-date:   2020-07-09 16:10:00 -0300
-categories: guru
+date:   2020-06-03 16:10:00 -0300
+
 ---
 
 Está difícil começar este texto, as ideias não estão bem claras, mas não quero deixar a energia que estou sentindo se dissipar antes de materializa-la. Bom, então vamos ao início.

@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: post
 title:  "Não há nada melhor do que um bom livro"
 date:   2017-09-05 22:42:00 -0300
-categories: guru
+
 ---
 Este foi talvez o maior conselho que recebi de Alexandre Motta, na época Sub-Tenente de Artilharia do Exército no TG 02-063 de Presidente Prudente. Teve colaboração ímpar na minha formação, sendo a primeira pessoa que me orientou a ir atrás dos bancos de dados SQL. Mais que isso, me encorajou a ser um usuário GNU/Linux, me livrando daquele outro sistema operacional. Foi também quem me deu o primeiro livro de programação, um de PHP, que está empoeirando na minha prateleira à espera de um leitor melhor.
 

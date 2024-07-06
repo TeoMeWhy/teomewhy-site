@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: post
 title:  "Quebrando o hábito"
 date:   2024-07-03 22:50:00 -0300
-categories: guru
+
 ---
 
 São seis meses fora do mercado de trabalho, distante de qualquer reunião de alinhamento, 1x1 com liderados, gestor ou business partner. São seis meses interagindo com centenas de pessoas online todos os dias, e ainda assim, solidão.
