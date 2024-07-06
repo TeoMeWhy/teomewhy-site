@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Porque usar Distribuição Exponencial"
 date:   2021-12-23 11:20:00 -0300
 categories: ml

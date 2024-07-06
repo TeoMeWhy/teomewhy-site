@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: post
 title:  "Mudanças para a onde?"
 date:   2020-01-06 10:12:00 -0300
-categories: guru
+
 ---
 Bom, em menos de 3 anos foram inúmeras mudanças, tanto de cidade quanto de trabalho. Na realidade tenho quase certeza de que minhas coisas ficam mais tempo em caixas do que em prateleiras e armários. Quando finalmente "organizamos a casa", uma mudança surge. Ou será que à provocamos? Não sei bem.
 

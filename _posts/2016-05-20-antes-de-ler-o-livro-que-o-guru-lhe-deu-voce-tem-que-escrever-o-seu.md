@@ -1,8 +1,7 @@
 ---
-layout: single
+layout: post
 title:  "Antes de ler o livro que o guru lhe deu, você tem que escrever o seu"
 date:   2016-05-20 04:24:00 -0300
-categories: guru
 ---
 
 Raul e suas letras mais que suficientes. Jesus Cristo! Como me fazem refletir!

@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: post
 title:  "A liderança que eu quis (s)ter"
 date:   2024-04-13 01:50:00 -0300
-categories: guru
+
 ---
 Esse não é um tema que costumo abordar e não faço ideia de quando falerei sobre ele novamente. Isso se dá por certa insegurança intrínseca à minha existência e até mesmo pelo tempo breve (4 anos) que tive em cadeiras de gestão. Mas acontecimentos recentes me fizeram refletir e colocar tinta no papel na esperança que outras pessoas reflitam e quem sabe se tornem líderes melhores do que eu.
 

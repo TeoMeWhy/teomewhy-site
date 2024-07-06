@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: post
 title:  "Picos de felicidade"
 date:   2018-11-21 01:27:00 -0300
-categories: guru
+
 ---
 Finalmente! Um tempo para voltar a escrever, estava com saudades. Foram alguns meses de adaptação à cidade, casa e ao emprego novo. Neste período, muita coisa aconteceu, me parecendo que tudo está acontecendo cada vez mais rápido, fugindo do meu controle. A reflexão atual é se de fato tive controle de algo em algum momento. Indo mais além: deveria me preocupar com isso? Ter controle?
 

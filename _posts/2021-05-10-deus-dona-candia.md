@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: post
 title:  "Adeus, Dona Cândia"
 date:   2021-05-10 12:08:00 -0300
-categories: guru
+
 ---
 Mais uma vez retorno ao meu refúgio. Mais uma vez procuro a solidão em meus fones de ouvido para não escutar meus próprios pensamentos. Fecho-me em meu próprio mundo, pois só assim sou capaz de não sentir o que está por vir.
 

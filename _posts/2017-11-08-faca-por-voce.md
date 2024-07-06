@@ -1,8 +1,8 @@
 ---
-layout: single
+layout: post
 title:  "Faça por você"
 date:   2017-11-08 09:00:00 -0300
-categories: guru
+
 ---
 
 Este espaço deveria ser meu refúgio para os pensamentos mais profundos, obtendo a liberdade de escrever aquilo que bem entendesse. Quase como um diário do que penso e entendo sobre o mundo, sem censura alguma ou preocupação com o impacto disso na minha carreira. A própria ideia do "Livro do Guru" é gerar autorreflexão, relendo-o para entender como penso e para onde devo seguir adiante.
