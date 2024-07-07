@@ -45,14 +45,12 @@ A assinatura é uma forma de apoiar meu projeto bem simples pela Twitch. Existem
 - Tem acesso ao Databricks
 - Não tomam Ad durante as transmissões;
 
----
 ### Assinatura padrão
 
 Para assinar de com seu cartão de crédito, basta clicar em "**Inscrever-se**", escolha qual modelo de assinatura (mensal, trimestral, etc.) e finalize sua compra.
 
 Ao utilizar o cartão de crédito, sua assinatura será renovada **automaticamente**. para gerenciar sua assinatura vá até [inscrições](https://www.twitch.tv/subscriptions) e clique na engrenagem no card da inscrição do canal que deseja manejar.
 
----
 ### Assinatura com Amazon Prime
 
 Requisitos:
@@ -76,7 +74,6 @@ Temos uma loja para você resgatar prêmios! [Confira aqui!](https://streameleme
 
 Mas como juntar pontos para obter esses prêmios? Vamos explicar abaixo os três tipos de pontos que existem no nosso sistema de pontos.
 
----
 ### Datapoints
 
 Os Datapoints são os pontos que efetivamente você consegue trocar por itens da nossa lojinha.
@@ -91,7 +88,6 @@ Como você obtêm Datapoints? Confira:
 - +250 Datapoints a cada 100 bits;
 - Trocar 1.000 Cubos por 100 Datapoints (!troca no chat);
 
----
 ### Cubos
 
 Os Cubos são os pontos de CRM, criamos um sistema de pontos interno para dar mais flexibilidade e conhecer melhor nosso público.
@@ -104,7 +100,6 @@ Como você obtêm Cubos? Confira:
 
 Ao longo do tempo, vamos criar novas mecânicas para coleta de Cubos.
 
----
 ### Pôneis
 
 Os Pôneis são gerados pela própria Twitch, onde há recompensas no Chat para você resgatar, como:
