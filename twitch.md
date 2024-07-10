@@ -12,6 +12,7 @@ Aqui você vai entender melhor como funciona nosso canal na Twitch. Separamos em
     - [Assinatura Amazon Prime](#assinatura-com-amazon-prime)
 - [Sistema de Pontos](#sistema-de-pontos)
 - [Acesso ao Databricks](#acesso-ao-databricks)
+- [Minigame RPG](#crie-seu-personagem-e-brinque-com-a-gente)
 
 ## O canal
 
@@ -130,3 +131,37 @@ Observações:
 - Não conseguiu executar os passos? Apareça na live e pergunte ao vivo. Estou online de segunda a sexta às 9AM.
 - O acesso só permite leitura dos dados que existem no nosso Datalake, ou seja, é voltado para análise de dados e Machine Learning, não para engenharia de dados e ingestões.
 - Quando você deixa de ser assinante, o acesso é removido.
+
+---
+## Crie seu personagem e brinque com a gente
+
+Resolvemos criar um minigame de RPG em nosso chat, você pode criar seu próprio personagem e regatar itens diários com seus cubos.
+
+Antes de criar seu personagem, é necessário participar do nosso sistema de pontos, utilize `!join` para participar.
+
+### Comando para criar personagem:
+
+`!create raca classe`
+
+Temos algumas raças e classes disponíveis: hobbit, human, poney, dwarf, elf.
+
+Você pode escolher entre as classes: bard, cleric, mage, thief, warrior
+
+Dessa forma, para criar um elfo mago, temos:
+
+```
+!create elf mage
+```
+
+
+### Resgate seu loot diário:
+
+`!loot`
+
+Para resgatar seu loot, é necessário ter 250 cubos como saldo. Você receberá um item aleatório em seu inventário.
+
+### Confira seu inventário:
+
+`!inventory`
+
+Aparecerá uma lista de itens com as seguintes informações: `id | nome | dano | preço`
