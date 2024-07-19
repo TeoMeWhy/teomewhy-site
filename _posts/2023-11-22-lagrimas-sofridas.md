@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lágrimas sofridas"
-date:   2023-11-22 08:43:00 -0300
+date:   2023-11-22 08:43:00  -0000
 
 ---
 Levou um tempo, mas chegou o momento de colocar os pensamentos em ordem e por consequência, escrever. Neste momento estou quase há três meses de volta ao mercado de trabalho, isto é, trabalhando como CLT em uma organização. Um pouco mais distante do calor e imersão, tenho refletido sobre os acontecimentos de 2023, principalmente para me ajudar nos próximos passos no ano que se aproxima.

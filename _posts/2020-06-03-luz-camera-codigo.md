@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Luz, câmera, código!"
-date:   2020-06-03 16:10:00 -0300
+date:   2020-06-03 16:10:00  -0000
 
 ---
 

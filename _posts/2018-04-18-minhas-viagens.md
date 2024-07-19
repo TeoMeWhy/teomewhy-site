@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Minhas viagens"
-date:   2018-04-18 01:27:00 -0300
+date:   2018-04-18 01:27:00  -0000
 
 ---
 Sempre tive dificuldade para pegar no sono. Meu pai descobriu algo que normalmente funcionava para me fazer dormir: dar voltas de carro na cidade comigo no banco de trás.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Primeiro emprego como Data Scientist"
-date:   2017-04-09 11:43:00 -0300
+date:   2017-04-09 11:43:00  -0000
 
 ---
 Antes mesmo de pegar meu diploma em Estatística, tive a grande chance de trabalhar como Data Scientist numa empresa de games! Gostaria então de compartilhar essa experiência, criando mais um capítulo no Livro do Guru.

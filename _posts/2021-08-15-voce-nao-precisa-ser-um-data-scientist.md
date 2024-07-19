@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Você não precisa ser um Data Scientist"
-date:   2021-08-15 09:00:00 -0300
+date:   2021-08-15 09:00:00  -0000
 
 ---
 Com o tempo fui descobrindo como meu método de aprendizado funciona, a partir disso, é comum eu me sentir em estado de júbilo ao poder compartilhar meus aprendizados com outros. Para mim é algo natural e profundo, cuja maior retribuição é a alegria daqueles que conseguiram alcançar seus objetivos, sejam eles profissionais ou pessoais. Por isso, apesar de não ter o título de professor, assumo este papel para ao menos tentar ajudar aqueles que tem interesse no que posso oferecer.

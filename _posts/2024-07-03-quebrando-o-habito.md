@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quebrando o hábito"
-date:   2024-07-03 22:50:00 -0300
+date:   2024-07-03 22:50:00  -0000
 
 ---
 
