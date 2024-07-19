@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Porque usar Distribuição Exponencial"
-date:   2021-12-23 11:20:00 -0300
+date:   2021-12-23 11:20:00  -0000
 categories: ml
 ---
 Este é um post que também virou vídeo, você pode conferir [aqui](https://www.youtube.com/watch?v=bcITjW_qNrE).

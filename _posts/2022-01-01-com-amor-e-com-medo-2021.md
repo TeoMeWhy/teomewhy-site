@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Com amor e com medo"
-date:   2022-01-01 10:43:00 -0300
+date:   2022-01-01 10:43:00  -0000
 
 ---
 

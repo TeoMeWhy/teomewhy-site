@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Organize melhor suas ideias"
-date:   2017-12-19 00:38:00 -0300
+date:   2017-12-19 00:38:00  -0000
 
 ---
 Folhas de redação com cabeçalho de colégio, um emaranhado de sentenças com pouco sentido, um comentário no tom vermelho bem destacado: "Organize melhor suas ideias". Consequentemente uma nota a baixo da média.

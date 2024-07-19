@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Não adianta ser inteligente se você não tornar o mundo melhor"
-date:   2024-01-02 16:00:00 -0300
+date:   2024-01-02 16:00:00  -0000
 
 ---
 Essa frase foi dita pela personagem Elisabet Sobeck no jogo Horizon Zero Dawn. Dediquei quase uma centena de horas neste jogo, principalmente nos dias frios em Curitiba-PR. Muitas lembranças boas destes momentos, onde a Kira gostava de deitar entre as minhas pernas para se esquentar. Voltando à frase, caso você me acompanhe nas redes sociais, deve saber que compartilho desta afirmação, mais do que isso, busco praticá-la.
