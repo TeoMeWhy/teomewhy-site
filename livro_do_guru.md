@@ -24,7 +24,7 @@ Ainda que não mantenha alguns pensamentos que escrevi por aqui, acho interessan
 - [Anos dificeis](/2020/07/09/anos-dificeis)
 - [Deus Dona Cândia](/2021/05/10/deus-dona-candia)
 - [Voce não precisa ser um Data Scientist](/2021/08/15/voce-nao-precisa-ser-um-data-scientist)
-- [Com amor e com medo 2021](/2022-01-01/com-amor-e-com-medo-2021)
+- [Com amor e com medo 2021](/2022/01/01/com-amor-e-com-medo-2021)
 - [Lágrimas Sofridas](/2023/11/22/lagrimas-sofridas)
 - [Não Adianta ser inteligente se você não tornar o mundo melhor](/2024/01/02/nao-adianta-ser-inteligente-se-voce-nao-tornar-o-mundo-melhor)
 - [Cresca. Só então, rebele se](/2024/01/12/cresca-so-entao-rebele-se)
