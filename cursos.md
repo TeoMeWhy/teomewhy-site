@@ -23,6 +23,7 @@ Sugestão de trilha para Data Science e Data Analytics (em ordem):
     - [Estatística Básica (2024)](#estatística-básica-2024)
     - [Machine Learning para Pôneis](#machine-learning-para-pôneis)
     - [Data Science Pontos](#data-science-e-pontos)
+    - [Data Science no Databricks](#data-science-no-databricks)
     - [Machine Learning do início ao fim](#machine-learning-do-início-ao-fim)
     - [Churn Assinaturas GC](#churn-assinaturas-gc)
     - [Data Science - Projeto Assinaturas](#data-science---projeto-assinaturas)
@@ -43,6 +44,7 @@ Sugestão de trilha para Data Science e Data Analytics (em ordem):
     - [Estatística para Você (2023)](#estatística-para-você-2023)
     - [Machine Learning para Pôneis](#machine-learning-para-pôneis)
     - [Data Science Pontos](#data-science-e-pontos)
+    - [Data Science no Databricks](#data-science-no-databricks)
     - [Machine Learning](#machine-learning)
     - [Machine Learning do início ao fim](#machine-learning-do-início-ao-fim)
     - [Churn Assinaturas GC](#churn-assinaturas-gc)
@@ -140,6 +142,12 @@ Projeto completo de Data Science construindo um modelo de ML para perdição de 
 |:---:|:---:|:---:|:---:|:---:|
 | **Intermediário** | **Projeto** | **Subs e Membros** | [Twitch](https://www.twitch.tv/collections/jg9itHOO1ReLcw) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQOkwDvfgCvKi9-I1jQXiy7) | [GitHub](https://github.com/TeoMeWhy/ds-points) |
 
+## Data Science no Databricks
+Projeto completo de Data Science no Databricks utilizando suas funcionalidades para modelagem e servir modelos
+
+| Nível | Formato | Acesso | Disponível | Repositório |
+|:---:|:---:|:---:|:---:|:---:|
+| **Intermediário** | **Projeto** | **Subs e Membros** | [Twitch](https://www.twitch.tv/collections/ghcAz7_75hfrgQ) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQTOgcqo1aCPPMKN_cZNJzM) | [GitHub](https://github.com/TeoMeWhy/ds-points) |
 
 ### Machine Learning
 Curso de introdução à Machine Learning.
