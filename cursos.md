@@ -147,7 +147,7 @@ Projeto completo de Data Science no Databricks utilizando suas funcionalidades p
 
 | Nível | Formato | Acesso | Disponível | Repositório |
 |:---:|:---:|:---:|:---:|:---:|
-| **Intermediário** | **Projeto** | **Subs e Membros** | [Twitch](https://www.twitch.tv/collections/ghcAz7_75hfrgQ) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQTOgcqo1aCPPMKN_cZNJzM) | [GitHub](https://github.com/TeoMeWhy/ds-points) |
+| **Intermediário** | **Projeto** | **Subs e Membros** | [Twitch](https://www.twitch.tv/collections/ghcAz7_75hfrgQ) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQTOgcqo1aCPPMKN_cZNJzM) | [GitHub](https://github.com/TeoMeWhy/ds-bricks) |
 
 ### Machine Learning
 Curso de introdução à Machine Learning.
