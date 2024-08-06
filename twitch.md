@@ -95,9 +95,34 @@ Os Cubos são os pontos de CRM, criamos um sistema de pontos interno para dar ma
 
 Como você obtêm Cubos? Confira:
 
-- Interagindo pelo chat da live (1 Mensagem = 1 Cubo);
-- Assinando a lista de presença (!presente) da live (1 dia = 50 Cubos);
-- Resgatando Pôneis (1 Resgate = 500 Cubos)
+| Nome do produto | Descrição do Produto | Pontos associados |
+| :---: | :---: | :---:|
+| Airflow Lover                                  | Citou o airflow no chat                              | -50   |
+| ChatMessage                                    | Mandou uma mensagem no chat                          | 1     |
+| Churn_2pp                                      | Digitou !profile e teve probabilidade de churn < 2%  | 100   |
+| Churn_5pp                                      | Digitou !profile e teve probabilidade de churn < 5%  | 50    |
+| Churn_10pp                                     | Digitou !profile e teve probabilidade de churn < 10% | 10    |
+| Daily Loot                                     | Resgatou nosso loot diário de RPG                    | -250  |
+| Lista de presença                              | Assinou a lista de presente digitando !presente      | 50    |
+| Presença Streak                                | Assinou a lista de presença por 5 dias consecutivos  | 100   |
+| Resgatar Ponei                                 | Resgatou pôneis da Twitch                            | 500   |
+| R Lover                                        | Citou a linguagem R no chat                          | -50   |
+| Troca de Pontos StreamElements                 | Trocou seus cubos por datapoints (!troca)            | -1000 |
+| Venda de Item: 1 - Bota das Sombras (200)      | Venda de item do RPG                                 | 200   |
+| Venda de Item: 3 - Chinélos Místicos (350)     | Venda de item do RPG                                 | 350   |
+| Venda de Item: 5 - Botas Diversão (450)        | Venda de item do RPG                                 | 450   |
+| Venda de Item: 8 - Chapéu Arcano (300)         | Venda de item do RPG                                 | 300   |
+| Venda de Item: 9 - Elmo do Berserker (350)     | Venda de item do RPG                                 | 350   |
+| Venda de Item: 10 - Couraça das Sombras (300)  | Venda de item do RPG                                 | 300   |
+| Venda de Item: 12 - Túnica Arcana (500)        | Venda de item do RPG                                 | 500   |
+| Venda de Item: 13 - Couraça do Berserker (600) | Venda de item do RPG                                 | 600   |
+| Venda de Item: 15 - Machado de Batalha (300)   | Venda de item do RPG                                 | 300   |
+| Venda de Item: 16 - Adaga (100)                | Venda de item do RPG                                 | 100   |
+| Venda de Item: 17 - Martelo de Guerra (400)    | Venda de item do RPG                                 | 400   |
+| Venda de Item: 18 - Cajado Arcano (250)        | Venda de item do RPG                                 | 250   |
+| Venda de Item: 20 - Lança (220)                | Venda de item do RPG                                 | 220   |
+| Venda de Item: 23 - Adaga Envenenada (150)     | Venda de item do RPG                                 | 150   |
+| Venda de Item: 25 - Ukulele das Trevas (250)   | Venda de item do RPG                                 | 250   |
 
 Ao longo do tempo, vamos criar novas mecânicas para coleta de Cubos.
 
