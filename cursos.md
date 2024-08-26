@@ -24,6 +24,7 @@ Sugestão de trilha para Data Science e Data Analytics (em ordem):
     - [Machine Learning para Pôneis](#machine-learning-para-pôneis)
     - [Data Science Pontos](#data-science-e-pontos)
     - [Data Science no Databricks](#data-science-no-databricks)
+    - [TSE Analytics - 2024](#dados-tse---2024)
     - [Machine Learning do início ao fim](#machine-learning-do-início-ao-fim)
     - [Churn Assinaturas GC](#churn-assinaturas-gc)
     - [Data Science - Projeto Assinaturas](#data-science---projeto-assinaturas)
@@ -45,6 +46,7 @@ Sugestão de trilha para Data Science e Data Analytics (em ordem):
     - [Machine Learning para Pôneis](#machine-learning-para-pôneis)
     - [Data Science Pontos](#data-science-e-pontos)
     - [Data Science no Databricks](#data-science-no-databricks)
+    - [TSE Analytics - 2024](#dados-tse---2024)
     - [Machine Learning](#machine-learning)
     - [Machine Learning do início ao fim](#machine-learning-do-início-ao-fim)
     - [Churn Assinaturas GC](#churn-assinaturas-gc)
@@ -128,26 +130,34 @@ Curso de Estatística básica.
 |:---:|:---:|:---:|:---:|
 | **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/GnvvyiEhhBdCuA) |
 
-## Machine Learning para Pôneis
+### Machine Learning para Pôneis
 Curso de Introdução à Machine Learning com as principais técnicas de Classificação e Regressão.
 
 | Nível | Formato | Acesso | Disponível | Repositório |
 |:---:|:---:|:---:|:---:|:---:|
 | **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/B7O8mo0SzxcXnA) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFTXcpttQSZmv1wDg7F3uH7o) | [Github](https://github.com/TeoMeWhy/ml-4-poneis) |
 
-## Data Science e Pontos
+### Data Science e Pontos
 Projeto completo de Data Science construindo um modelo de ML para perdição de Churn.
 
 | Nível | Formato | Acesso | Disponível | Repositório |
 |:---:|:---:|:---:|:---:|:---:|
 | **Intermediário** | **Projeto** | **Subs e Membros** | [Twitch](https://www.twitch.tv/collections/jg9itHOO1ReLcw) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQOkwDvfgCvKi9-I1jQXiy7) | [GitHub](https://github.com/TeoMeWhy/ds-points) |
 
-## Data Science no Databricks
+### Data Science no Databricks
 Projeto completo de Data Science no Databricks utilizando suas funcionalidades para modelagem e servir modelos
 
 | Nível | Formato | Acesso | Disponível | Repositório |
 |:---:|:---:|:---:|:---:|:---:|
 | **Intermediário** | **Projeto** | **Subs e Membros** | [Twitch](https://www.twitch.tv/collections/ghcAz7_75hfrgQ) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQTOgcqo1aCPPMKN_cZNJzM) | [GitHub](https://github.com/TeoMeWhy/ds-bricks) |
+
+### TSE Analytics - 2024
+Coleta e análise de dados dos partidos e suas candidaturas nas eleições municipais brasileiras em 2024.
+
+| Nível | Formato | Acesso | Disponível |
+|:---:|:---:|:---:|:---:|
+| **    ** | **Projeto** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/hPL8gBlV7xc2BA)/[YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSvg12n4ZjDeJL6S_UOulxw) |
+
 
 ### Machine Learning
 Curso de introdução à Machine Learning.
@@ -198,7 +208,6 @@ Ingestão de dados a partir de dados em Raw (full-load + CDC) utilizando streami
 | Nível | Formato | Acesso | Disponível | Repositório |
 |:---:|:---:|:---:|:---:|:---:|
 | **Intermediário** | **Projeto** | **Subs e Membros** | [Twitch](https://www.twitch.tv/collections/2e8D0Vgd3hf04g) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFTcLehYZ2Bd5hGIcLH0dJHE) | [GitHub](https://github.com/TeoMeWhy/lago-mago) |
-
 
 ### Dados TSE
 Coleta de dados públicos das eleições brasileiras.
