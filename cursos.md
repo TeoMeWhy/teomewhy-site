@@ -158,7 +158,6 @@ Coleta e análise de dados dos partidos e suas candidaturas nas eleições munic
 |:---:|:---:|:---:|:---:|
 | **    ** | **Projeto** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/hPL8gBlV7xc2BA)/[YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSvg12n4ZjDeJL6S_UOulxw) |
 
-
 ### Machine Learning
 Curso de introdução à Machine Learning.
 
