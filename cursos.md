@@ -24,7 +24,7 @@ Sugestão de trilha para Data Science e Data Analytics (em ordem):
     - [Machine Learning para Pôneis](#machine-learning-para-pôneis)
     - [Data Science Pontos](#data-science-e-pontos)
     - [Data Science no Databricks](#data-science-no-databricks)
-    - [TSE Analytics - 2024](#dados-tse---2024)
+    - [TSE Analytics - 2024](#tse-analytics---2024)
     - [Machine Learning do início ao fim](#machine-learning-do-início-ao-fim)
     - [Churn Assinaturas GC](#churn-assinaturas-gc)
     - [Data Science - Projeto Assinaturas](#data-science---projeto-assinaturas)
@@ -46,7 +46,7 @@ Sugestão de trilha para Data Science e Data Analytics (em ordem):
     - [Machine Learning para Pôneis](#machine-learning-para-pôneis)
     - [Data Science Pontos](#data-science-e-pontos)
     - [Data Science no Databricks](#data-science-no-databricks)
-    - [TSE Analytics - 2024](#dados-tse---2024)
+    - [TSE Analytics - 2024](#tse-analytics---2024)
     - [Machine Learning](#machine-learning)
     - [Machine Learning do início ao fim](#machine-learning-do-início-ao-fim)
     - [Churn Assinaturas GC](#churn-assinaturas-gc)
@@ -156,7 +156,7 @@ Coleta e análise de dados dos partidos e suas candidaturas nas eleições munic
 
 | Nível | Formato | Acesso | Disponível |
 |:---:|:---:|:---:|:---:|
-| **    ** | **Projeto** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/hPL8gBlV7xc2BA)/[YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSvg12n4ZjDeJL6S_UOulxw) |
+| **Iniciante/Intermediário** | **Projeto** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/hPL8gBlV7xc2BA)/[YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSvg12n4ZjDeJL6S_UOulxw) |
 
 ### Machine Learning
 Curso de introdução à Machine Learning.
