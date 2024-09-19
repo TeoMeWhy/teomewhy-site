@@ -55,6 +55,7 @@ Sugestão de trilha para Data Science e Data Analytics (em ordem):
 - [Data Engineer](#data-engineer)
     - [Coleta e organização de dados](#coleta-e-organização-de-dados)
     - [Lago do Mago](#lago-do-mago)
+    - [Trampar de Lake House](#trampar-de-lakehouse)
     - [Dados TSE](#dados-tse)
     - [The International](#the-international)
     - [Data SUS](#data-sus)
@@ -208,12 +209,20 @@ Ingestão de dados a partir de dados em Raw (full-load + CDC) utilizando streami
 |:---:|:---:|:---:|:---:|:---:|
 | **Intermediário** | **Projeto** | **Subs e Membros** | [Twitch](https://www.twitch.tv/collections/2e8D0Vgd3hf04g) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFTcLehYZ2Bd5hGIcLH0dJHE) | [GitHub](https://github.com/TeoMeWhy/lago-mago) |
 
+### Trampar de Lakehouse
+Freelance criando um datalake/lakehou do zero para a iniciativa Trampar de Casa.
+
+| Nível | Formato | Acesso | Disponível | Repositório |
+|:---:|:---:|:---:|:---:|
+| **Intermediário** | **Projeto** | **Subs e Memtnos** | [Twitch](https://www.twitch.tv/collections/SOtxLvG_9Rcfbw) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSG6ORablElWKH-G2K3H9Bn) | [GitHub](https://github.com/TeoMeWhy/trampar-de-lakehouse)
+
 ### Dados TSE
 Coleta de dados públicos das eleições brasileiras.
 
 | Nível | Formato | Acesso | Disponível |
 |:---:|:---:|:---:|:---:|
 | **Iniciante** | **Projeto** | **Assinantes Twitch** | [Twitch](https://www.twitch.tv/collections/wO90seh_qxeyTA) |
+
 
 ### The International
 Consumo de dados de Dota2 para predições de partida.
