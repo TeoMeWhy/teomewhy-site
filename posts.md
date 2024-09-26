@@ -1,7 +1,7 @@
 ---
 layout: posts
-permalink: /post/
 title: Posts
+permalink: /post/
 ---
 
 Aqui você encontra a lista de todos meus artigos.
