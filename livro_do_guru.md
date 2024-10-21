@@ -31,3 +31,4 @@ Ainda que não mantenha alguns pensamentos que escrevi por aqui, acho interessan
 - [A liderança que eu quis (s)ter](/2024/04/13/a-lideranca-que-eu-quis-(s)ter)
 - [Quebrando o Hábito](/2024/07/03/quebrando-o-habito)
 - [O que fazer quando não se sabe o que fazer?](/2024/10/13/o-que-fazer)
+- [Mais do que apertar botões](/2024/10/21/mais-do-que-apertar-botoes)
