@@ -17,7 +17,9 @@ A resposta: entrego o meu melhor todos os dias.
 
 Agora o segundo adendo: o meu melhor não é o mesmo sempre.
 
-<img class="image" src="/assets/images/o_meu_melhor.png" alt="O meu melhor ao longo dos dias">
+<p align="center">
+    <img class="image" src="/assets/images/o_meu_melhor.png" alt="O meu melhor ao longo dos dias">
+</p>
 
 Um bom exemplo é o que estou fazendo nesse momento. Estou na frente do computador em um domingo às 8:00AM, com criança me chamando de tempos em tempos, pensamento sendo interrompido constantemente, cachorro latindo, televisão com som alto, companheira precisando de apoio em algo, etc.
 
@@ -50,7 +52,9 @@ Sabe aquele papo de coach sobre melhorar 1% todos os dias para fechar o ano 365%
 
 A verdade é que se melhorarmos 1% todos os dias, ao final de um ano, melhoramos 3.678% em relação ao início. Essa é a magia dos juros compostos, e nessa magia eu acredito.
 
-<img class="image" src="/assets/images/1_melhor_todos_os_dias.png" alt="Gráfico de dias versus resultado">
+<p align="center">
+    <img class="image" src="/assets/images/1_melhor_todos_os_dias.png" alt="Gráfico de dias versus resultado">
+</p>
 
 Uso a mesma lógica de meus investimentos para a produção de conteúdo: **aportes recorrentes com o maior valor possível**. Mesmo que o maior valor possível seja R$100,00. Lembrando que R$100,00 > R$0.
 
@@ -60,6 +64,8 @@ Toda vez que abro uma live, escrevo um texto, gravo um vídeo, realizo publicaç
 
 Mesmo que eu não consiga "melhorar" 1% todos os dias, ainda que eu melhore 0,001%, ainda assim é melhor que 0%. Cada post pode ter valores de engajamento diferentes, mas ainda assim, é melhor do sua ausência.
 
-<img class="image" src="/assets/images/rand_melhor_todos_os_dias.png" alt="Gráfico de dias versus resultado com aleatoriedade">
+<p align="center">
+    <img class="image" src="/assets/images/rand_melhor_todos_os_dias.png" alt="Gráfico de dias versus resultado com aleatoriedade">
+</p>
 
 Essa é a minha motivação em manter a consistência. Ainda que que não consiga os 1% todos os dias, ainda que eu não seja produtivo todos os dias.
