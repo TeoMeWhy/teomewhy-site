@@ -78,7 +78,7 @@ Bom, essa foi a parte fácil. Agora vou tentar explorar como faço para executar
 
 De janeiro a outubro estive dedicado integralmente na criação de conteúdo na internet. Sem CLT, sem reuniões de alinhamento, sem 1:1, sem um time para liderar. A ausência de tudo isso tornou meu dia muito mais leve, embora a auto cobrança tenha aumentado significativamente, principalmente com os boletos chegando.
 
-Durante este tempo, minha rotina era acordar entre 6AM e 6:30AM, junto com minha filha. Eu e minha esposa preparamos o café em conjunto e a seguir nos revesamos para levar a filhota para escola ou dar os cuidados necessários para a Kira (remdios, comida, limpeza, etc).
+Durante este tempo, minha rotina era acordar entre 6AM e 6:30AM, junto com minha filha. Eu e minha esposa preparamos o café em conjunto e a seguir nos revesamos para levar a filhota para escola ou dar os cuidados necessários para a Kira (remédios, comida, limpeza, etc).
 
 Chegando perto das 8AM essas tarefas já estão concluída e ligo o computador. Como a live só iniciava às 8:50, havia algum tempo para conferir as redes sociais e verificar o avanço de alguns investimentos bem como agendar alguns aportes caso tenha algo atrativo. Neste tempo, também realizava o post diário no LinkedIn, gerando imagens no MidJourney e escrevendo um texto, normalmente sobre o projeto atual das lives ou relembrando o pessoal que o Téo Me Why ainda existe e precisamos do apoio contínuo.
 
@@ -132,10 +132,16 @@ Vale dizer ainda que muito do que vejo no mercado me inspira a criar novos conte
 
 ### Para fechar
 
-Repare que ainda na CLT, mantenho minhas lives diárias. Todas lives são excelentes e ótimas? Com certeza não. Mas mantenho a consistência. posso estar desanimado, sem saber o que fazer durante as lives ou qualquer outra coisa, mas aquelas duas horas sõa dedicadas para isso e apenas isso.
+Repare que ainda na CLT, mantenho minhas lives diárias. Todas lives são excelentes e ótimas? Com certeza não. Mas mantenho a consistência. Posso estar desanimado, sem saber o que fazer durante as lives ou qualquer outra coisa, mas aquelas duas horas são dedicadas para isso e apenas isso.
 
 Ta ligado a frase memorável do Rock Balboa?
 
 *"Mas não se trata de bater duro. Se trata de quanto você aguenta apanha e seguir em frente. O quanto você é capaz de aguentar e continuar tentando. É assim que se consegue vencer."*
 
+É mais ou menos isso que entra na minha cabeça quando penso no Téo Me Why.
+
 Tenho certeza que Rebeca Andrade treino muito, mesmo sem vontade de treinar. Mas todo e qualquer avanço é melhor que zero avanço.
+
+Então, independente do que você pode fazer hoje, agora, ou todos os dias, se comprometa a fazer um pouquinho todo dia. Não precisa escrever um artigo no blog por dia, mas quem sabe um parágrafo por dia? Um post por semana? Um vídeo por mês? Mas comece! Tudo começa com um primeiro passo, nada surge do nada.
+
+Não precisa ser 1% por dia, só precisa ser alguma coisa. E alguma coisa é maior que zero.
