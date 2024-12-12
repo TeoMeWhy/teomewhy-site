@@ -56,6 +56,7 @@ Sugestão de trilha para Data Science e Data Analytics (em ordem):
     - [Coleta e organização de dados](#coleta-e-organização-de-dados)
     - [Lago do Mago](#lago-do-mago)
     - [Trampar de Lake House](#trampar-de-lakehouse)
+    - [Datalake - Ecossistema TMW](#datalake---ecossistema-tmw)
     - [Dados TSE](#dados-tse)
     - [The International](#the-international)
     - [Data SUS](#data-sus)
@@ -214,7 +215,16 @@ Freelance criando um datalake/lakehou do zero para a iniciativa Trampar de Casa.
 
 | Nível | Formato | Acesso | Disponível | Repositório |
 |:---:|:---:|:---:|:---:|
-| **Intermediário** | **Projeto** | **Subs e Memtnos** | [Twitch](https://www.twitch.tv/collections/SOtxLvG_9Rcfbw) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSG6ORablElWKH-G2K3H9Bn) | [GitHub](https://github.com/TeoMeWhy/trampar-de-lakehouse)
+| **Intermediário** | **Projeto** | **Subs e Membros** | [Twitch](https://www.twitch.tv/collections/SOtxLvG_9Rcfbw) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSG6ORablElWKH-G2K3H9Bn) | [GitHub](https://github.com/TeoMeWhy/trampar-de-lakehouse)
+
+### Datalake - Ecossistema TMW
+Construindo um datalake a partir de dados do RDS Aurora MySQL e DMS, utilizando Apache Spark on Databricks para processamento e criação das camadas bronze, silver e gold.
+
+| Nível | Formato | Acesso | Disponível | Repositório |
+|:---:|:---:|:---:|:---:|
+| **Intermediário** | **Projeto** | **Subs e Membros** | [Twitch](https://www.twitch.tv/collections/Vi_gXLztCxjTZg) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQ0hB4FX4A6SjakFhPvL6Cs) | [GitHub](https://github.com/TeoMeWhy/datalake-tmw-eco)
+
+
 
 ### Dados TSE
 Coleta de dados públicos das eleições brasileiras.
