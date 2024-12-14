@@ -57,6 +57,7 @@ Sugestão de trilha para Data Science e Data Analytics (em ordem):
     - [Lago do Mago](#lago-do-mago)
     - [Trampar de Lake House](#trampar-de-lakehouse)
     - [Datalake - Ecossistema TMW](#datalake---ecossistema-tmw)
+    - [Reconstrução modelo de Churn](#reconstrução-modelo-de-churn)
     - [Dados TSE](#dados-tse)
     - [The International](#the-international)
     - [Data SUS](#data-sus)
@@ -224,6 +225,12 @@ Construindo um datalake a partir de dados do RDS Aurora MySQL e DMS, utilizando 
 |:---:|:---:|:---:|:---:|
 | **Intermediário** | **Projeto** | **Subs e Membros** | [Twitch](https://www.twitch.tv/collections/Vi_gXLztCxjTZg) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQ0hB4FX4A6SjakFhPvL6Cs) | [GitHub](https://github.com/TeoMeWhy/datalake-tmw-eco)
 
+### Reconstrução modelo de Churn
+Agora que temos os dados do do nosso ecossistema no datalake, podemos reconstruir nosso modelo de churn para realizar predições de nossos usuários.
+
+| Nível | Formato | Acesso | Disponível | Repositório |
+|:---:|:---:|:---:|:---:|
+| **Intermediário** | **Projeto** | **Aberto** | [Twitch](https://www.twitch.tv/collections/VW38DyMWERiqOw) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFTxVc2G1uMDF5wLdZ78prF3) | [GitHub](https://github.com/TeoMeWhy/datalake-tmw-eco)
 
 
 ### Dados TSE
