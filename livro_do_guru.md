@@ -34,3 +34,4 @@ Ainda que não mantenha alguns pensamentos que escrevi por aqui, acho interessan
 - [Mais do que apertar botões](/2024/10/21/mais-do-que-apertar-botoes)
 - [Por que Dev](/2024/10/31/por-que-dev)
 - [Como ser consistente](/2024/12/08/como-ser-consistente)
+- [Sobre algo](/2025/01/12/sobre-algo)
