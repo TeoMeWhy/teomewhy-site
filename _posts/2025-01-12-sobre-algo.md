@@ -45,7 +45,7 @@ Foi engraçado ver a cara dele, respondendo: então talvez seja apenas um desejo
 
 Eu tenho isso muito claro na minha cabeça. Metas são números com prazos bem definidos. Se não tem essas duas coisas, não é meta. Pode ser um desejo, mas não é meta.
 
-O lance não acaba aí. Já se perguntou o que acontece quando batemos a meta? *Não vale responder "sobramos a meta".* Quanto tempo dura o sentimento de meta batida?
+O lance não acaba aí. Já se perguntou o que acontece quando batemos a meta? *Não vale responder "dobramos a meta".* Quanto tempo dura o sentimento de meta batida?
 
 Acredito que essas perguntas são bem importantes. Porque, a partir da meta definida, você deveria construir um planejamento, executá-lo, manejá-lo quando não estivesse indo em direção à meta e assim por diante. Sua vida pode acabar girando em torno disso por um bom tempo. Você dedicou tempo (nosso único recurso) para alcançar sua meta, para muitas vezes depois descobrir o quão insignificante ela era.
 
