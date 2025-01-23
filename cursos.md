@@ -22,6 +22,7 @@ Sugestão de trilha para Data Science e Data Analytics (em ordem):
 - [Data Science](#data-science)
     - [Estatística Básica (2024)](#estatística-básica-2024)
     - [Machine Learning para Pôneis](#machine-learning-para-pôneis)
+    - [MLFlow](#mlflow)
     - [Data Science Pontos](#data-science-e-pontos)
     - [Data Science no Databricks](#data-science-no-databricks)
     - [TSE Analytics - 2024](#tse-analytics---2024)
@@ -43,6 +44,7 @@ Sugestão de trilha para Data Science e Data Analytics (em ordem):
 - [Data Science](#data-science)
     - [Estatística Básica (2024)](#estatística-básica-2024)
     - [Estatística para Você (2023)](#estatística-para-você-2023)
+    - [MLFlow](#mlflow)
     - [Machine Learning para Pôneis](#machine-learning-para-pôneis)
     - [Data Science Pontos](#data-science-e-pontos)
     - [Data Science no Databricks](#data-science-no-databricks)
@@ -139,6 +141,14 @@ Curso de Introdução à Machine Learning com as principais técnicas de Classif
 | Nível | Formato | Acesso | Disponível | Repositório |
 |:---:|:---:|:---:|:---:|:---:|
 | **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/B7O8mo0SzxcXnA) / [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFTXcpttQSZmv1wDg7F3uH7o) | [Github](https://github.com/TeoMeWhy/ml-4-poneis) |
+
+### MLFlow
+Curso introdutório de como lidar com o ciclo de vida de modelos de Machine Learning usando MLFLow
+
+| Nível | Formato | Acesso | Disponível | Repositório |
+|:---:|:---:|:---:|:---:|:---:|
+| **Iniciante** | **Curso** | **Aberto** | [YouTube](https://www.youtube.com/watch?v=W8bxk42C9UE&list=PLvlkVRRKOYFQeQEA5Lc0US9i-EK8eGgrs) | [Github](https://github.com/TeoMeWhy/curso-mflow) |
+
 
 ### Data Science e Pontos
 Projeto completo de Data Science construindo um modelo de ML para perdição de Churn.
