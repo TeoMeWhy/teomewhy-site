@@ -17,7 +17,7 @@ Navegue e conheça mais sobre este projeto que democratiza a educação de dados
 
 :speaker: LivePix: [livepix.gg/teomewhy](https://livepix.gg/teomewhy)
 
-:computer: GitHub Sponsors: [github.com/TeoMeWhy](https//github.com/sponsors/TeoMeWhy)
+:computer: GitHub Sponsors: [github.com/TeoMeWhy](https://github.com/sponsors/TeoMeWhy)
 
 :heart: ApoiaSe: [apoia.se/teomewhy](https://apoia.se/teomewhy)
 
