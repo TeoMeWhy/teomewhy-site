@@ -12,7 +12,6 @@ Estamos ao vivo de segunda a sexta às 8:30AM na [Twitch](https://twitch.tv/teom
 
 | Evento | Formato | Dias | Horário | Adicione na agenda |
 | :---: | :---: | :---: | :--: | :---: |
-| Git e GitHub | Curso | 27.01 - 30.01 | 8AM | [:link:](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MW5hbTdvM3M0cDRhcnBpaGRwb3NrNWh1aHVfMjAyNTAxMjdUMTEwMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL) |
 | PoC - LLM | Projeto | 07.02 | 8AM | [:link:](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzRlc2NnZGg1aG1paGJnamxiNXNxbnRmc2EgdGVvQHRlb21ld2h5Lm9yZw&tmsrc=teo%40teomewhy.org) |
 | Python | Curso | 10.02 - 14.02 | 8AM | [:link:](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Mm9laTlqaWlwOWxucjJrbDFkbnFzdjJham5fMjAyNTAyMTBUMTEwMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL) |
 | Pandas | Curso | 10.03 - 14.03 | 8AM | [:link:](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWlwNzdub2IyNTlibGFzdHY3MWVsajZtNzBfMjAyNTAzMTBUMTEwMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL) |
