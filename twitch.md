@@ -140,22 +140,7 @@ Os Pôneis são gerados pela própria Twitch, onde há recompensas no Chat para 
 ---
 ## Acesso ao Databricks
 
-Requisitos:
-- Ser assinante do nosso canal na Twitch.
-
-Etapas:
-- Vá até "Chat" do nosso canal em twitch.tv/teomewhy e digite: !join ;
-- Vá até a [lojinha](https://streamelements.com/teomewhy/store) e resgate o item "Acesso ao Databricks";
-- Você precisa informar o seu email certinho no passo anterior;
-- Anote o link que foi disponibilizado (é o link do nosso workspace);
-- Aguarde uns 10 ~ 15min e tente acessar o link do workspace com seu email, clicando em "esqueci senha".
-
-Observações:
-- A partir do dia 10/07/2024 as senhas serão de curta duração, isto é, o Databricks enviará um código de acesso para seu email.
-- A assinatura não representa uma venda de acesso ao workspace, e sim, um benefício para quem apoia nosso projeto.
-- Não conseguiu executar os passos? Apareça na live e pergunte ao vivo. Estou online de segunda a sexta às 9AM.
-- O acesso só permite leitura dos dados que existem no nosso Datalake, ou seja, é voltado para análise de dados e Machine Learning, não para engenharia de dados e ingestões.
-- Quando você deixa de ser assinante, o acesso é removido.
+Este benefício foi descontinuado. Não liberamos mais acessoa o ambiente do Databricks.
 
 ---
 ## Crie seu personagem e brinque com a gente
