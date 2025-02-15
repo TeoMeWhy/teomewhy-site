@@ -76,7 +76,7 @@ Introdução à versionamento de código.
 
 | Nível | Formato | Acesso | Disponível |
 |:---:|:---:|:---:|:---:|
-| **Iniciante** | **Curso** | **Aberto** | [Twitch](https://www.twitch.tv/collections/0Y_K7vMBsRf4mw) / [YouTube](https://youtube.com/playlist?list=PLvlkVRRKOYFQ3cfYPjLeQ0KvrQ8bG5H11&si=PsaP0KviQYsDxVOc) |
+| **Iniciante** | **Curso** | **Aberto** | [YouTube](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL) |
 
 ### Introdução à Programação com Python (2024)
 Introdução a linguagem e lógica de programação com Python.
