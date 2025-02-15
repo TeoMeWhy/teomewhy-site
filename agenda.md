@@ -12,8 +12,7 @@ Estamos ao vivo de segunda a sexta às 8:30AM na [Twitch](https://twitch.tv/teom
 
 | Evento | Formato | Dias | Horário | Adicione na agenda |
 | :---: | :---: | :---: | :--: | :---: |
-| PoC - LLM | Projeto | 07.02 | 8AM | [:link:](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzRlc2NnZGg1aG1paGJnamxiNXNxbnRmc2EgdGVvQHRlb21ld2h5Lm9yZw&tmsrc=teo%40teomewhy.org) |
-| Python | Curso | 10.02 - 14.02 | 8AM | [:link:](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Mm9laTlqaWlwOWxucjJrbDFkbnFzdjJham5fMjAyNTAyMTBUMTEwMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL) |
+| PoC - LLM | Projeto | 21.02 | 8AM | [:link:](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzRlc2NnZGg1aG1paGJnamxiNXNxbnRmc2EgdGVvQHRlb21ld2h5Lm9yZw&tmsrc=teo%40teomewhy.org) |
 | Pandas | Curso | 10.03 - 14.03 | 8AM | [:link:](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWlwNzdub2IyNTlibGFzdHY3MWVsajZtNzBfMjAyNTAzMTBUMTEwMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL) |
 | Estatística Pt. I | Curso | 31.03 - 04.04 | 8AM | [:link:](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NTZpa3FxbzRja2ZjOWVjdmdzNXYycjh1c3BfMjAyNTAzMzFUMTEwMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL) |
 | Estatística Pt. II | Curso | 14.04 - 18.04 | 8AM | [:link:](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDVpcHZoYWUybW1uZ2d2NzliZW50ZWxsdDFfMjAyNTA0MTRUMTEwMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL) |
