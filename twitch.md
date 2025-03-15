@@ -12,7 +12,6 @@ Aqui você vai entender melhor como funciona nosso canal na Twitch. Separamos em
     - [Assinatura Amazon Prime](#assinatura-com-amazon-prime)
 - [Sistema de Pontos](#sistema-de-pontos)
 - [Acesso ao Databricks](#acesso-ao-databricks)
-- [Minigame RPG](#crie-seu-personagem-e-brinque-com-a-gente)
 
 ## O canal
 
