@@ -4,6 +4,8 @@ title: Sobre
 permalink: /about/
 ---
 
-Téo é um entusiasta incansável do universo de dados, traz consigo uma rica jornada nas esferas de Data Science e Analytics. Como líder, destacou-se na condução estratégica de equipes, liderando pessoas e projetos de Advanced Analytics. Sua visão inovadora não apenas moldou a cultura organizacional, mas também impulsionou a implementação de um robusto Data Lake e a integração eficiente entre áreas cruciais da empresa.
+Sou apaixonado por compartilhar conhecimento e ensinar as pessoas. Acredito que a educação transforma vidas, sendo libertadora e mudando a realidade de muitas pessoas. Se buscamos uma sociedade mais justa e com mais igualdade, a educação deve ser colocada como prioridade. Por isso, realizo esse trabalho de educação na internet, ensinando sobre a área de dados e tecnologia de forma acessível e didática. Conecto o mundo real com a teoria e prática.
 
-Para além de suas realizações profissionais, Teo nutre uma paixão dedicada à democratização do conhecimento na área de dados e tecnologia. Por meio de sua iniciativa educacional, Téo Me Why, ele compartilha insights valiosos, promove treinamentos envolventes e disponibiliza material autoral, alcançando uma audiência global. Sua abordagem acessível e inspiradora tem impactado milhares de entusiastas, tornando o aprendizado sobre dados mais inclusivo e estimulante.
+Tive a oportunidade de estudar nas melhores universidades do Brasil, onde pude aprender e me desenvolver. Graças ao acesso que tive, cresci profissionalmente e conquistei méritos que nunca imaginei. Além do trabalho individual nos projetos de dados em grandes empresas, fui líder na área de dados, construindo o parque analítico do zero, contratando e desenvolvendo talentos e novas lideranças.
+
+Hoje, me dedico integralmente no meu projeto de educação popular, Téo Me Why.
