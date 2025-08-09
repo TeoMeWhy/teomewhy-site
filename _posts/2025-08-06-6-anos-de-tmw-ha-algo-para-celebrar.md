@@ -110,7 +110,9 @@ Nossa luta pela emancipação do conhecimento continua viva. Meu desejo é estar
 Além dos cursos ao vivo em formato de lives, tenho grande interesse em participar de coletivos de minorias levando conhecimento em formato de cursos. Fizemos algo assim em 2022, rodando um curso de SQL presencial no Quinto Andar (com apoio fantástico), focando em pessoas em situação de vulnerabilidade social. Seria incrível me aproximar de comunidades como Mulheres em Dados, ajudando a disseminar conhecimento para grupos minoritários. Contem comigo.
 
 Por fim, nosso trabalho ao vivo continua. Teremos muitos projetos reais para construir em conjunto e mantemos nossas lives diárias.
-Agradecimentos
+
+
+## Agradecimentos
 
 Como já dito, nada disso seria possível sem o apoio da comunidade. Hoje, somando as diferentes formas de apoio, temos por volta de 2.500 pessoas apoiando financeiramente o nosso projeto. Vocês são importantes demais para que tudo isso continue funcionando e possamos ajudar os outros 99% que ainda não podem nos apoiar. Obrigado por acreditarem nessa loucura.
 
@@ -126,7 +128,7 @@ Não posso deixar de lembrar nossos principais patrocinadores durante essa jorna
 
 Obrigado por confiarem a imagem da marca de vocês ao nosso projeto, espero vê-los em breve para novas parcerias
 
-Considerações Finais
+## Considerações Finais
 
 Ainda não sei se consegui expressar tudo que eu estava sentindo e queria que você soubesse. Por vezes, é difícil colocar em palavras alguns sentimentos. Mas saiba que eu continuo acreditando no nosso trabalho de formiguinha, ainda que tantas pedras de diferentes tamanhos apareçam no nosso caminho para desviarmos.
 
