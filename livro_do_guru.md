@@ -38,3 +38,4 @@ Ainda que não mantenha alguns pensamentos que escrevi por aqui, acho interessan
 - [Por qual classe eu luto?](/2025/05/01/por-qual-classe-eu-luto)
 - [6 anos de TMW! Há o que celebrar?](/2025/08/09/6-anos-de-tmw-ha-algo-para-celebrar)
 - [A profissão que eu escolhi](/2025/10/15/a-profissao-que-eu-escolhi)
+- [Resistência](/2025/10/28/resistencia)
