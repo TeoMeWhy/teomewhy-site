@@ -62,7 +62,7 @@ O YouTube é o nosso principal repositório de material em vídeo. Se você quer
 
 Mais uma pergunta que é extremamente recorrente. Indo direto ao ponto: é a nossa principal fonte de receita e é literalmente o que faz o Téo Me Why sobreviver hoje. Sem a área de membros, eu já teria desistido de criar conteúdo há tempos.
 
-Então, se você curte o meu conteúdo e ele te ajudou em algum momento, seja membro!
+Então, se você curte o meu conteúdo e ele te ajudou em algum momento, [seja membro](https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA/join)!
 
 Agora vamos entender os diferentes níveis de membros:
 
@@ -87,7 +87,7 @@ Possui os mesmos benefícios que o Mago Aprendiz, assiste a live da Mesa dos Mag
 
 ## O que faço na Twitch?
 
-Eu faço lives todos os dias. Isso mesmo. Todos os dias, de segunda à sexta tem live na twitch das 9AM às 11AM. Ou seja, tem alguma dúvida sobre carreira, área ou até pergunta técnica, aqui é o lugar e o horário para você interagir diretamente comigo.
+Eu faço lives todos os dias. Isso mesmo. Todos os dias, de segunda à sexta tem live na twitch das 9AM as 11AM. Ou seja, tem alguma dúvida sobre carreira, área ou até pergunta técnica, aqui é o lugar e o horário para você interagir diretamente comigo.
 
 É na twitch que os nossos cursos, projetos e bate papo acontecem. É aqui que o conteúdo nasce e só depois vai para o YouTube.
 
@@ -103,7 +103,7 @@ Como ele funciona?
 
 Você só precisa "se cadastrar". A forma mais simples é ir até o chat da nossa Twitch e digitar "!join" (sem as aspas, claro). Assim, criaremos um usuário para você vinculando sua Twitch ao nosso sistema de pontos.
 
-Outra maneira de de cadastrar é indo até a página de perfil em nossa plataforma de cursos: cursos.teomewhy.org/perfil
+Outra maneira de cadastrar é indo até a página de perfil em nossa plataforma de cursos: cursos.teomewhy.org/perfil
 Alí você poderá clicar no botão "Clique aqui para vincular seu perfil ao ecossistema".
 
 Beleza! Mas como ganhamos cubos e para o que?
