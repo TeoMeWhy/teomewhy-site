@@ -39,3 +39,4 @@ Ainda que não mantenha alguns pensamentos que escrevi por aqui, acho interessan
 - [6 anos de TMW! Há o que celebrar?](/2025/08/09/6-anos-de-tmw-ha-algo-para-celebrar)
 - [A profissão que eu escolhi](/2025/10/15/a-profissao-que-eu-escolhi)
 - [Resistência](/2025/10/28/resistencia)
+- [Mapa de Aventuras](2026/01/22/mapa-de-aventuras)
