@@ -34,7 +34,7 @@ Isso aqui é para quando você não faz a porra da ideia de por onde começar. A
 
 Só depende de você ir lá e maratonar a sequência de nossos cursos e vídeos. Tudo devidamente organizado, onde você consegue salvar o seu progresso enquanto avança.
 
-Se quiser seguir nesse modo, você vai em [cursos.teomewhy.org/trilhas](cursos.teomewhy.org/trilhas).
+Se quiser seguir nesse modo, você vai em [cursos.teomewhy.org/trilhas](https://cursos.teomewhy.org/trilhas).
 
 Não se esqueça de realizar o login para salvar seu progresso. Basta ter Twitch.
 
@@ -46,7 +46,7 @@ Aqui, você vai construir um PDI (Plano de Desenvolvimento Individual). A primei
 
 O resultado desse exercício é uma lista de habilidades com a prioridade que você deve focar. Caso eu tenha um conteúdo dessa habilidade, ele já é apresentado para você.
 
-Acesse: [cursos.teomewhy.org/pdi](cursos.teomewhy.org/pdi)
+Acesse: [cursos.teomewhy.org/pdi](https://cursos.teomewhy.org/pdi)
 
 ## Modo Foda-se
 
