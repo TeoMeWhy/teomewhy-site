@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Qual o próximo passo?"
-date:   2026-02-11 22:55:00  -0000
+title:  "Qual é o próximo passo?"
+date:   2026-02-11 18:55:00  -0000
 
 ---
 
