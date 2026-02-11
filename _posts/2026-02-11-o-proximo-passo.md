@@ -65,9 +65,9 @@ Quem tem que responder isso é você! O que você curte? Quais hobbies você tem
 
 Falando em dados, especificamente, há muitos dados abertos para você utilizar. Tanto do governo, quanto jogos, clima, finanças, etc.
 
-Você pode ainda pensar em coletar dados que nem existem! É o exemplo que fizemos no Téo Me Why. Criei um sistema de pontos para começar a coletar dados de quem aprende com a gente, entendemo o comportamento da galera.
+Você pode ainda pensar em coletar dados que nem existem! É o exemplo que fizemos no Téo Me Why. Criei um sistema de pontos para começar a coletar dados de quem aprende com a gente, entendendo o comportamento da galera.
 
-Tentar colocar isso em prática, vai te tornar um pessoa mais criativa e também muito melhor tecnicamente. Cada desafio de como fazer a parada funcionar vai testar tudo aquilo que você aprendeu e acha que domina.
+Tentar colocar isso em prática, vai te tornar uma pessoa mais criativa e também muito melhor tecnicamente. Cada desafio de como fazer a parada funcionar vai testar tudo aquilo que você aprendeu e acha que domina.
 
 Esse processo é maravilhoso! Você vai ter uma história para contar! E é isso que brilha o olho de qualquer entrevistador. Saber que a pessoa encarou aquilo com garra e vontade, porque ela escolheu tudo, participou de cada decisão e sabe explicar cada um dos seus "porquês"!
 
