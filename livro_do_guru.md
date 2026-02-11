@@ -40,3 +40,4 @@ Ainda que não mantenha alguns pensamentos que escrevi por aqui, acho interessan
 - [A profissão que eu escolhi](/2025/10/15/a-profissao-que-eu-escolhi)
 - [Resistência](/2025/10/28/resistencia)
 - [Mapa de Aventuras](2026/01/22/mapa-de-aventuras)
+- [Qual é o próximo passo?](2026/02/11/o-proximo-passo)
