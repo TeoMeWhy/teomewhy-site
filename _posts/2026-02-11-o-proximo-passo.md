@@ -37,7 +37,7 @@ Percebe que uma pessoa que passa por isso, já sai da graduação com uma baita 
 
 Me parece que com a quantidade crescente de cursos livres, bootcamps e faculdades que não proporcionam esse tipo de vivência para os alunos, temos um cenário onde as pessoas em teoria tem o conhecimento das ferramentas, mas não fazem ideia de onde usá-lo ou como aplicá-lo.
 
-Eu não atribuo essa culpa ao aluno. Sério, a culpa não é sua. Para mim, esses cursos é que falham ao prepara-los. Tanto para o mercado, quanto para a academia.
+Eu não atribuo essa culpa ao aluno. Sério, a culpa não é sua. Para mim, esses cursos é que falham ao prepará-los. Tanto para o mercado quanto para a academia.
 
 ---
 
@@ -45,13 +45,13 @@ Eu não atribuo essa culpa ao aluno. Sério, a culpa não é sua. Para mim, esse
 
 Você precisa ter experiência para conseguir sua vaga. E experiência não implica experiência profissional. Você pode ter experiência acadêmica.
 
-O que você fez de TCC? Porque escolheu esse tema? Quais foram seus desafios? Como contornou eles? Quais são os próximos passos do projeto? Qual o impacto desse tema na sociedade?
+O que você fez de TCC? Por que escolheu esse tema? Quais foram seus desafios? Como contornou eles? Quais são os próximos passos do projeto? Qual o impacto desse tema na sociedade?
 
-São perguntas assim quem contrata gostaria de fazer. O desejo de toda pessoa do outro lado da mesa, é saber mais sobre você, como você pensa e o que você é capaz de realizar. Sério! O maior interessado em que você passe na entrevista é quem está te entrevistando.
+São perguntas assim que quem contrata gostaria de fazer. O desejo de toda pessoa do outro lado da mesa é saber mais sobre você, como você pensa e o que você é capaz de realizar. Sério! O maior interessado em que você passe na entrevista é quem está te entrevistando.
 
 Processo seletivo é uma parada custosa para a empresa. Quanto mais rápido encontrar a pessoa certa, melhor!
 
-Com isso em mente, quem você priorizaria para conversar em uma entrevista? Alguém que tem algo concreto para apresentar, que já "construiu algo"? Ou uma pessoa que "só" assistiu as aulas?
+Com isso em mente, quem você priorizaria para conversar em uma entrevista? Alguém que tem algo concreto para apresentar, que já "construiu algo"? Ou uma pessoa que "só" assistiu às aulas?
 
 ---
 
@@ -61,7 +61,7 @@ Caso eu tenha conseguido esclarecer esse ponto, vem uma nova pergunta: "Tá, mas
 
 - EU NÃO SEI!
 
-Quem tem que responder isso é você! O que você curte? Quais hobbies você tem? Que tipo de pensamento deixa eu seu dia mais animado? Que iniciativa você gostaria de se envolver? Quais esportes pratica? Quais jogos você tem interesse em jogar?
+Quem tem que responder isso é você! O que você curte? Quais hobbies você tem? Que tipo de pensamento deixa o seu dia mais animado? Que iniciativa você gostaria de se envolver? Quais esportes pratica? Quais jogos você tem interesse em jogar?
 
 Falando em dados, especificamente, há muitos dados abertos para você utilizar. Tanto do governo, quanto jogos, clima, finanças, etc.
 
@@ -75,7 +75,7 @@ Esse processo é maravilhoso! Você vai ter uma história para contar! E é isso
 
 ### Para a falta de confiança
 
-E para quem não sente segurança e começar um projeto, mesmo dominando as ferramentas, acho importante dizer que no nosso youtube temos muito material criando projetos ao vivo.
+E para quem não sente segurança em começar um projeto, mesmo dominando as ferramentas, acho importante dizer que no nosso youtube temos muito material criando projetos ao vivo.
 
 É um valor extremamente acessível! Porque é realmente para ajudar a galera.
 
