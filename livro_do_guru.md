@@ -41,3 +41,4 @@ Ainda que não mantenha alguns pensamentos que escrevi por aqui, acho interessan
 - [Resistência](/2025/10/28/resistencia)
 - [Qual é o próximo passo?](2026/02/11/o-proximo-passo)
 - [Eu Também Estou Perdido](2026/08/11/eu-tambem-estou-perdido)
+- [Sai a Esperança. Entra o Ódio](2026/10/07/sai-esperanca-entra-odio.md)
